@@ -1,0 +1,880 @@
+{
+ "_note": "Dated snapshot of Abu Dhabi Media Office RSS feeds. Covers Abu Dhabi government only. Feed-specific terms not stated.",
+ "publisher": "Abu Dhabi Media Office",
+ "index_url": "https://www.mediaoffice.abudhabi/en/rss-news-feeds-abu-dhabi-media-office/",
+ "snapshot_date": "2026-11-10",
+ "feeds": [
+  {
+   "file": "feeds/ar_government-affairs.xml",
+   "url": "https://www.mediaoffice.abudhabi/ar/government-affairs/rss/",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "file": "feeds/ar_security.xml",
+   "url": "https://www.mediaoffice.abudhabi/ar/security/rss/",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "file": "feeds/en_economy.xml",
+   "url": "https://www.mediaoffice.abudhabi/en/economy/rss/",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "file": "feeds/en_government-affairs.xml",
+   "url": "https://www.mediaoffice.abudhabi/en/government-affairs/rss/",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "file": "feeds/en_security.xml",
+   "url": "https://www.mediaoffice.abudhabi/en/security/rss/",
+   "lang": "en",
+   "category": "security"
+  }
+ ],
+ "items": [
+  {
+   "title": "خالد بن محمد بن زايد يترأس اجتماع المجلس التنفيذي لإمارة أبوظبي",
+   "link": "https://www.mediaoffice.abudhabi/ar/crown-prince-news/khaled-bin-mohamed-bin-zayed-chairs-abu-dhabi-executive-council-meeting-2026/",
+   "published": "2026-11-10",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "هزاع بن زايد يزور مصنع \"تم\" ويطّلع على مسيرة أبوظبي نحو حكومة قائمة على الذكاء الاصطناعي",
+   "link": "https://www.mediaoffice.abudhabi/ar/technology/hazza-bin-zayed-visits-tamm-factory-and-reviews-abu-dhabis-journey-towards-ai-native-government/",
+   "published": "2026-11-06",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "خالد بن محمد بن زايد يرفع علم الدولة أمام متحف زايد الوطني احتفاءً بيوم العلم",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/khaled-bin-mohamed-bin-zayed-raises-uae-flag-at-zayed-national-museum-to-mark-flag-day-2026/",
+   "published": "2026-11-03",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "هزاع بن زايد يرفع علم الدولة في قصر المويجعي احتفاءً بيوم العلم",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/hazza-bin-zayed-raises-uae-flag-at-qasr-al-muwaiji-to-mark-flag-day/",
+   "published": "2026-11-03",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "حمدان بن زايد يرفع علم الدولة في حصن الظفرة احتفاءً بيوم العَلم",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/hamdan-bin-zayed-raises-uae-flag-at-al-dhafra-fort-to-mark-flag-day-1/",
+   "published": "2026-11-03",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "محمد بن حمدان بن زايد يرفع علم الدولة في ديوان ممثل الحاكم في منطقة العين احتفاءً بيوم العلم",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/mohammed-bin-hamdan-bin-zayed-raises-uae-flag-at-rulers-representative-court-in-al-ain-region-to-mark-flag-day-2026/",
+   "published": "2026-11-03",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "ذياب بن محمد بن زايد يرفع علم الدولة في واحة الكرامة احتفاءً بيوم العَلم",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/theyab-bin-mohamed-bin-zayed-raises-uae-flag-at-wahat-al-karama-to-mark-flag-day-2026/",
+   "published": "2026-11-03",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "جمارك أبوظبي تفوز بجائزة الحكومة الرقمية الخليجية عن مبادرتها «منظومة الجمارك الخفية»",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/abu-dhabi-customs-wins-gcc-digital-government-award-for-invisible-customs-initiative/",
+   "published": "2026-10-30",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "حمدان بن زايد يستقبل وفد دائرة التمكين الحكومي ويطلع على تطور الخدمات الحكومية والفرص الوظيفية في الظفرة",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/hamdan-bin-zayed-receives-department-of-government-enablement-delegation-and-reviews-government-services-and-employment-opportunities-in-al-dhafra-region/",
+   "published": "2026-10-30",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "بتنظيم من دائرة التمكين الحكومي – أبوظبي.. «منتدى التميُّز في قطاع الضيافة» يُرسي معايير جديدة للقطاعات الخدمية",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/organised-by-department-of-government-enablement-abu-dhabi-hospitality-excellence-forum-establishes-new-standards-across-service-sectors/",
+   "published": "2026-10-26",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "ذياب بن محمد بن زايد يترأس وفد دولة الإمارات في قمة «NDTV» العالمية 2026 في نيودلهي",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/theyab-bin-mohamed-bin-zayed-leads-uae-delegation-at-ndtv-world-summit-2026-in-new-delhi/",
+   "published": "2026-10-23",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "ذياب بن محمد بن زايد يلتقي رئيس الوزراء الهندي على هامش قمة «NDTV» العالمية 2026",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/theyab-bin-mohamed-bin-zayed-meets-prime-minister-of-india-on-sidelines-of-ndtv-world-summit-2026/",
+   "published": "2026-10-23",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "ذياب بن محمد بن زايد يستقبل رئيس وزراء سنغافورة في واحة الكرامة",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/theyab-bin-mohamed-bin-zayed-receives-prime-minister-of-singapore-at-wahat-al-karama/",
+   "published": "2026-10-21",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "رئيس الدولة في مقدمة مستقبليه.. الرئيس الفرنسي يصل البلاد في زيارة رسمية",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/uae-president-receives-french-president-at-start-of-official-visit-to-uae/",
+   "published": "2026-10-19",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "رئيس الدولة والرئيس الفرنسي يبحثان علاقات التعاون والتطورات الإقليمية",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/uae-president-and-french-president-discuss-cooperation-and-regional-developments/",
+   "published": "2026-10-19",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "بتوجيهات خالد بن محمد بن زايد.. دائرة التمكين الحكومي تعلن تأسيس شركة \"تم العالمية\" لتوسيع انتشار منصة \"تم\" عالمياً",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/under-the-directives-of-khaled-bin-mohamed-bin-zayed-department-of-government-enablement-announces-establishment-of-tamm-global-company-to-expand-tamm-platforms-global-reach/",
+   "published": "2026-10-16",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "رئيس الدولة يوجه بإعادة تسمية \"مطار العين الدولي\" ليصبح \"مطار طحنون الدولي\"",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/uae-president-directs-renaming-al-ain-international-airport-to-tahnoun-international-airport/",
+   "published": "2026-10-11",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "دائرة التمكين الحكومي – أبوظبي تطلق برنامج «إيه آي نيتف» للتدريب على الذكاء الاصطناعي، بالتعاون مع «أوبن إيه آي» ومايكروسوفت وجامعة محمد بن زايد للذكاء الاصطناعي",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/department-of-government-enablement-abu-dhabi-launches-ainative-training-programme-in-collaboration-with-openai-microsoft-and-mbzuai/",
+   "published": "2026-10-07",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "بحضور خالد بن محمد بن زايد.. طحنون بن زايد يترأس اجتماع مجلس الذكاء الاصطناعي والتكنولوجيا المتقدمة",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/in-the-presence-of-khaled-bin-mohamed-bin-zayed-tahnoon-bin-zayed-chairs-meeting-of-artificial-intelligence-and-advanced-technology-council-2026/",
+   "published": "2026-10-06",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "خالد بن محمد بن زايد يصدر قراراً بتعيين الدكتور محمد عبدالله الزعابي وكيلاً لدائرة الثقافة والسياحة",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/khaled-bin-mohamed-bin-zayed-issues-resolution-appointing-dr-mohamed-abdalla-al-zaabi-as-undersecretary-of-department-of-culture-and-tourism/",
+   "published": "2026-10-05",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "هيئة أبوظبي للإسكان تفوز بالمركز الأول من جائزة مجلس التعاون في مجال الإسكان عن مشروع غرب بني ياس السكني",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/abu-dhabi-housing-authority-wins-1st-place-at-gcc-housing-award-for-west-bani-yas-residential-project/",
+   "published": "2026-10-04",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "سلطان عُمان يستقبل طحنون بن زايد",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/sultan-of-oman-receives-tahnoon-bin-zayed/",
+   "published": "2026-09-30",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "هزاع بن زايد يستقبل خالد بن محمد بن زايد بمحل إقامته في منطقة العين",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/hazza-bin-zayed-receives-khaled-bin-mohamed-bin-zayed-at-his-residence-in-al-ain-region/",
+   "published": "2026-09-25",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "المجلس التنفيذي يصدر قراراً بتعيين عبدالله حمد الغفلي مديراً عاماً لمركز النقل المتكامل",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/executive-council-issues-resolution-appointing-abdulla-hamad-alghfeli-as-director-general-of-integrated-transport-centre/",
+   "published": "2026-09-23",
+   "lang": "ar",
+   "category": "government-affairs"
+  },
+  {
+   "title": "هيئة أبوظبي للدفاع المدني تُتوَّج بالمركز الأول في «تحدي المهارات السريرية الدولي للخدمات الطبية الطارئة 2026» في الولايات المتحدة",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/abu-dhabi-civil-defence-authority-wins-1st-place-at-ems-world-clinical-challenge-2026-in-us/",
+   "published": "2026-11-08",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "مركز ربدان للأمن والدفاع ينظِّم \"مؤتمر الشرق الأوسط للدفاع 2026\" في أبوظبي",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/rabdan-security-and-defence-institute-to-host-middle-east-defence-conference-2026-in-emirate/",
+   "published": "2026-10-28",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "خلال زيارته الرسمية إلى جمهورية اليونان.. ولي عهد أبوظبي يزور مركز التدريب والتأهيل الفني ويلتقي عدداً من الطلبة العسكريين الإماراتيين",
+   "link": "https://www.mediaoffice.abudhabi/ar/crown-prince-news/during-official-visit-to-greece-crown-prince-of-abu-dhabi-visits-technical-training-and-qualification-center-and-meets-emirati-military-students/",
+   "published": "2026-10-24",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "شرطة أبوظبي تعزِّز قدرات «النقيب سند» بالذكاء الاصطناعي لدعم التواصل والتوعية المجتمعية",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/abu-dhabi-police-enhances-captain-sanads-capabilities-with-ai-to-strengthen-communication-and-public-awareness/",
+   "published": "2026-10-17",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "بالتعاون مع مركز أبوظبي العقاري هيئة أبوظبي للدفاع المدني تطلق مبادرة «بيتي آمن»",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/in-collaboration-with-abu-dhabi-real-estate-centre-abu-dhabi-civil-defence-authority-launches-my-home-is-safe-initiative/",
+   "published": "2026-10-16",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "بالتعاون مع هيئة زايد لأصحاب الهمم.. شرطة أبوظبي تطلق منصة «صوت الإشارة» لتعزيز وصول الأفراد من فئة الصم وضعاف السمع إلى الخدمات الشرطية",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/in-collaboration-with-zayed-authority-for-people-of-determination-abu-dhabi-police-launches-sign-language-voice-platform-to-enhance-police-services-for-deaf-and-hearing-impaired-people/",
+   "published": "2026-10-15",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "بتنظيم من مجمّع تنمية الغذاء ووفرة المياه في مكتب أبوظبي للاستثمار.. مؤتمر البروتينات البديلة – PALT 2026 يسهم في تعزيز قطاع أغذية البروتينات البديلة في الإمارة",
+   "link": "https://www.mediaoffice.abudhabi/ar/economy/organised-by-the-agrifood-growth-and-water-abundance-cluster-at-abu-dhabi-investment-office/",
+   "published": "2026-10-11",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "هزاع بن زايد يستقبل وفداً من شرطة أبوظبي والدفاع المدني ومركز إدارة الطوارئ والأزمات",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/hazza-bin-zayed-receives-delegation-from-abu-dhabi-police-civil-defence-and-crises-management-centre/",
+   "published": "2026-10-02",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "مؤتمر الأمم المتحدة الخامس عشر لمنع الجريمة والعدالة الجنائية – أبوظبي 2026 يعقد فعالياته في الإمارة",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/15th-united-nations-congress-on-crime-prevention-and-criminal-justice-abu-dhabi-2026-takes-place-in-the-emirate/",
+   "published": "2026-09-26",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "سيف بن زايد يشهد جانباً من أعمال مؤتمر الأمم المتحدة الخامس عشر لمنع الجريمة والعدالة الجنائية – أبوظبي 2026",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/saif-bin-zayed-attends-15th-united-nations-congress-on-crime-prevention-and-criminal-justice-abu-dhabi-2026/",
+   "published": "2026-09-26",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "مركز أبوظبي لإدارة المواد الخطرة يتعاون مع شركة «بريسايت» لتوظيف الذكاء الاصطناعي في استباق المخاطر",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/abu-dhabi-hazardous-materials-management-centre-partners-with-presight-to-harness-ai-for-proactive-risk-management/",
+   "published": "2026-09-14",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "أكثر من 120 دولة تشارك في الكونجرس العالمي السادس والأربعين للطب العسكري 2026 – أبوظبي في نوفمبر المقبل",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/46th-world-congress-of-military-medicine-abu-dhabi-2026-to-feature-participation-of-120-countries-in-november/",
+   "published": "2026-08-26",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "أكاديمية ربدان تُطلق برنامج البكالوريوس في إدارة الكوارث لتعزيز الجاهزية والمرونة الوطنية",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/rabdan-academy-launches-bachelor-of-disaster-management-programme-enhancing-national-preparedness-and-resilience/",
+   "published": "2026-08-18",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "أكاديمية ربدان تنظم هاكاثون «الألعاب الرقمية الآمنة: الابتكار من أجل مجتمع رقمي آمن»",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/rabdan-academy-hosts-gaming-for-good-online-safety-hackathon/",
+   "published": "2026-08-06",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "منصور بن زايد يطلع على برامج مجلس الأمن السيبراني وشرطة أبوظبي في مهرجان الشيخ زايد الصيفي",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/mansour-bin-zayed-reviews-cyber-security-council-abu-dhabi-police-programmes-at-sheikh-zayed-summer-festival/",
+   "published": "2026-07-30",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "رئيس الدولة يستقبل فريق الإمارات للبحث والإنقاذ ويشيد بجهودهم الإنسانية العالمية",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/uae-president-commends-global-humanitarian-efforts-of-uae-search-and-rescue-team/",
+   "published": "2026-07-27",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "حمدان بن زايد يستقبل وفداً من مجلس الأمن السيبراني لحكومة دولة الإمارات ويشيد بوصول مواقع مراكز البيانات الرديفة للسحابة الوطنية إلى منطقة الظفرة",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/hamdan-bin-zayed-receives-uae-cyber-security-council-delegation-and-commends-establishment-of-national-clouds-backup-data-centres-in-al-dhafra-region/",
+   "published": "2026-07-24",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "هيئة أبوظبي للدفاع المدني تحظى بإشادة دولية من الجمعية الوطنية الأمريكية للحماية من الحرائق تقديراً لتطوير منظومة مستدامة للسلامة والوقاية من الحريق",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/abu-dhabi-civil-defence-authority-receives-recognition-from-national-fire-protection-association-in-us-for-sustainable-fire-safety-and-prevention-system/",
+   "published": "2026-07-20",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "مجلس التوازن للتمكين الدفاعي ومجلس الإمارات للتنمية المتوازنة يوقّعان اتفاقية لإطلاق برنامج «روافد» للمجمعات الصناعية الدفاعية المصغرة",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/tawazun-council-for-defence-enablement-and-emirates-council-for-balanced-development-sign-agreement-to-launch-rawaafid-programme-for-defence-industries-micro-parks/",
+   "published": "2026-07-16",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "مركز إدارة الطوارئ والأزمات والكوارث لإمارة أبوظبي ينظِّم ورشة تدريبية لتعزيز الجاهزية للاستجابة للمخاطر",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/emergencies-crises-and-disasters-management-centre-abu-dhabi-organises-training-workshop-to-enhance-preparedness-in-risks/",
+   "published": "2026-07-09",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "بصفته رئيساً لدائرة القضاء – أبوظبي، منصور بن زايد يُصدر قراراً بإنشاء محكمة متخصصة للنظر في جرائم الاتجار بالبشر",
+   "link": "https://www.mediaoffice.abudhabi/ar/government-affairs/in-his-capacity-as-chairman-of-abu-dhabi-judicial-department-mansour-bin-zayed-issues-resolution-establishing-specialised-court-for-human-trafficking-crimes/",
+   "published": "2026-07-07",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "مجموعة أدنيك تسجِّل مساهمة قياسية تتجاوز 9.2 مليارات درهم في الاقتصاد الإماراتي خلال 2025",
+   "link": "https://www.mediaoffice.abudhabi/ar/economy/adnec-group-contributes-record-aed-92bn-to-uae-economy-in-2025/",
+   "published": "2026-07-06",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "الحملة السنوية لدائرة الطاقة – أبوظبي «السلامة في الحر» تعزِّز تطبيق ممارسات العمل الآمنة في منشآت قطاع الطاقة",
+   "link": "https://www.mediaoffice.abudhabi/ar/energy/abu-dhabi-department-of-energy-annual-safety-in-heat-campaign-reinforces-safe-working-practices-across-energy-sector-facilities/",
+   "published": "2026-06-25",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "أكاديمية ربدان تطلق ماجستير العلوم في الجرائم المالية",
+   "link": "https://www.mediaoffice.abudhabi/ar/security/rabdan-academy-launches-master-of-science-in-financial-crime/",
+   "published": "2026-06-25",
+   "lang": "ar",
+   "category": "security"
+  },
+  {
+   "title": "Abu Dhabi Department of Economic Development and Bavaria partner to strengthen economic partnership in future industries",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-department-of-economic-development-and-bavaria-partner-to-strengthen-economic-partnership-in-future-industries/",
+   "published": "2026-11-09",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Abu Dhabi Real Estate Centre records 76.1% year-on-year increase in transaction value, reaching AED171.2bn+ during first 9 months of 2026",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-real-estate-centre-records-761-year-on-year-increase-in-transaction-value-reaching-aed1712bn-during-first-9-months-of-2026/",
+   "published": "2026-11-07",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Maqam International Holding and LuLu Group sign agreement to manage and operate new hypermarket in Abu Dhabi’s Al Shahama",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/maqam-international-holding-and-lulu-group-sign-agreement-to-manage-and-operate-new-hypermarket-in-abu-dhabis-al-shahama/",
+   "published": "2026-11-06",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Khaled bin Mohamed bin Zayed meets BYD Executive Vice President and reviews company’s world speed record achievement in Abu Dhabi",
+   "link": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-byd-executive-vice-president-and-reviews-companys-world-speed-record-achievement-in-abu-dhabi/",
+   "published": "2026-11-06",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Abu Dhabi shapes future of energy resilience and security as record-breaking ADIPEC 2026 mobilises US$67bn in energy investment",
+   "link": "https://www.mediaoffice.abudhabi/en/energy/abu-dhabi-shapes-future-of-energy-resilience-and-security-as-record-breaking-adipec-2026-mobilises-us67bn-in-energy-investment/",
+   "published": "2026-11-06",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Abu Dhabi Department of Energy and H2G Green sign agreement targeting AED1bn in investment to enhance reliability of natural gas supplies to industrial sector in the emirate",
+   "link": "https://www.mediaoffice.abudhabi/en/energy/abu-dhabi-department-of-energy-and-h2g-green-sign-agreement-targeting-aed1bn-in-investment-to-enhance-reliability-of-natural-gas-supplies-to-industrial-sector-in-the-emirate/",
+   "published": "2026-11-05",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Shamma bint Sultan bin Khalifa hosts private majlis for World Economic Forum Young Global Leaders",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/shamma-bint-sultan-bin-khalifa-hosts-private-majlis-for-world-economic-forum-young-global-leaders/",
+   "published": "2026-11-02",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Under patronage of UAE President, Mansour bin Zayed opens ADIPEC 2026",
+   "link": "https://www.mediaoffice.abudhabi/en/energy/under-patronage-of-uae-president-mansour-bin-zayed-opens-adipec-2026/",
+   "published": "2026-11-02",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "ADNOC takes final investment decision on Ruwais Diyab Unconventional Gas Development, advancing integrated global gas growth strategy",
+   "link": "https://www.mediaoffice.abudhabi/en/energy/adnoc-takes-final-investment-decision-on-ruwais-diyab-unconventional-gas-development-advancing-integrated-global-gas-growth-strategy/",
+   "published": "2026-11-02",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "ADNOC holds 2nd Make it with ADNOC Forum to support local manufacturing and advance UAE's industrial growth",
+   "link": "https://www.mediaoffice.abudhabi/en/energy/adnoc-holds-2nd-make-it-with-adnoc-forum-to-support-local-manufacturing-and-advance-uaes-industrial-growth/",
+   "published": "2026-10-25",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Crown Prince of Abu Dhabi reviews strategic UAE projects and investments in Greece",
+   "link": "https://www.mediaoffice.abudhabi/en/crown-prince-news/crown-prince-of-abu-dhabi-reviews-strategic-uae-projects-and-investments-in-greece/",
+   "published": "2026-10-23",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "On sidelines of Crown Prince of Abu Dhabi’s visit, UAE announces intention to invest additional €15 billion in Greece to strengthen economic and strategic partnership",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/on-sidelines-of-crown-prince-of-abu-dhabis-visit-uae-announces-intention-to-invest-additional-15-billion-in-greece-to-strengthen-economic-and-strategic-partnership/",
+   "published": "2026-10-22",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Crown Prince of Abu Dhabi and Greek Prime Minister attend UAE-Greece Strategic Forum in Athens",
+   "link": "https://www.mediaoffice.abudhabi/en/crown-prince-news/crown-prince-of-abu-dhabi-and-greek-prime-minister-attend-uae-greece-strategic-forum-in-athens/",
+   "published": "2026-10-22",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Abu Dhabi delegation concludes visit to London, advancing investment partnerships and expanding business opportunities with UK companies",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-delegation-concludes-visit-to-london-advancing-investment-partnerships-and-expanding-business-opportunities-with-uk-companies/",
+   "published": "2026-10-20",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Shamma bint Sultan bin Khalifa named Executive Fellow of World Economic Forum’s Global Future Leaders’ Science, Discovery and Innovation pillar",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/shamma-bint-sultan-bin-khalifa-named-executive-fellow-of-world-economic-forums-global-future-leaders-science-discovery-and-innovation-pillar/",
+   "published": "2026-10-14",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Abu Dhabi delegation to showcase emirate’s investment opportunities in London",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-delegation-to-showcase-emirates-investment-opportunities-in-london/",
+   "published": "2026-10-13",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Organised by the AgriFood Growth and Water Abundance cluster at Abu Dhabi Investment Office",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/organised-by-the-agrifood-growth-and-water-abundance-cluster-at-abu-dhabi-investment-office/",
+   "published": "2026-10-11",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "LIVEX 2026 witnesses AED150bn+ in agreements and initiatives, advancing liveability developments in Abu Dhabi",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/livex-2026-witnesses-aed150bn-in-agreements-and-initiatives-advancing-liveability-developments-in-abu-dhabi/",
+   "published": "2026-10-09",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Abu Dhabi Registration Authority reports continued growth in Abu Dhabi economy across entrepreneurship and industry",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/abu-dhabi-registration-authority-reports-continued-growth-in-abu-dhabi-economy-across-entrepreneurship-and-industry/",
+   "published": "2026-10-08",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Abu Dhabi Projects and Infrastructure Centre and The Boring Company partner to explore advanced underground infrastructure opportunities in Abu Dhabi",
+   "link": "https://www.mediaoffice.abudhabi/en/infrastructure/abu-dhabi-projects-and-infrastructure-centre-and-the-boring-company-partner-to-explore-advanced-underground-infrastructure-opportunities-in-abu-dhabi/",
+   "published": "2026-10-08",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "In collaboration with Abu Dhabi Agriculture and Food Safety Authority and Abu Dhabi Investment Office, Abu Dhabi Quality and Conformity Council develops Abu Dhabi Guideline for Tasting and Sensory Evaluation of Novel Foods",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/in-collaboration-with-abu-dhabi-agriculture-and-food-safety-authority-and-abu-dhabi-investment-office-abu-dhabi-quality-and-conformity-council-develops-abu-dhabi-guideline-for-tasting-and-sensory-evaluation/",
+   "published": "2026-10-08",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "On sidelines of final day of Global Food Week, Abu Dhabi Honey Programme launched to develop honey sector and enhance its global competitiveness",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/on-sidelines-of-final-day-of-global-food-week-abu-dhabi-honey-programme-launched-to-develop-honey-sector-and-enhance-its-global-competitiveness/",
+   "published": "2026-10-08",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Strata receives Approved Maintenance Organization certification from the UAE General Civil Aviation Authority under the authority’s CAR-145 regulation",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/strata-receives-approved-maintenance-organization-certification-from-the-uae-general-civil-aviation-authority-under-the-authoritys-car-145-regulation/",
+   "published": "2026-10-06",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Under the patronage of Mansour bin Zayed, Hamdan bin Mohamed bin Zayed attends inauguration of Global Food Week and Global Food Security Summit in Abu Dhabi",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/under-the-patronage-of-mansour-bin-zayed-hamdan-bin-mohamed-bin-zayed-attends-inauguration-of-global-food-week-and-global-food-security-summit-in-abu-dhabi/",
+   "published": "2026-10-06",
+   "lang": "en",
+   "category": "economy"
+  },
+  {
+   "title": "Khaled bin Mohamed bin Zayed chairs Abu Dhabi Executive Council meeting",
+   "link": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-chairs-abu-dhabi-executive-council-meeting-2026/",
+   "published": "2026-11-10",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Hazza bin Zayed visits TAMM Factory and reviews Abu Dhabi’s journey towards AI-native government",
+   "link": "https://www.mediaoffice.abudhabi/en/technology/hazza-bin-zayed-visits-tamm-factory-and-reviews-abu-dhabis-journey-towards-ai-native-government/",
+   "published": "2026-11-06",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Khaled bin Mohamed bin Zayed raises UAE flag at Zayed National Museum to mark Flag Day",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/khaled-bin-mohamed-bin-zayed-raises-uae-flag-at-zayed-national-museum-to-mark-flag-day-2026/",
+   "published": "2026-11-03",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Hazza bin Zayed raises UAE flag at Qasr Al Muwaiji to mark Flag Day",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/hazza-bin-zayed-raises-uae-flag-at-qasr-al-muwaiji-to-mark-flag-day/",
+   "published": "2026-11-03",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Hamdan bin Zayed raises UAE flag at Al Dhafra Fort to mark Flag Day",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/hamdan-bin-zayed-raises-uae-flag-at-al-dhafra-fort-to-mark-flag-day-1/",
+   "published": "2026-11-03",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Mohammed bin Hamdan bin Zayed raises UAE flag at Ruler’s Representative Court in Al Ain Region to mark Flag Day",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/mohammed-bin-hamdan-bin-zayed-raises-uae-flag-at-rulers-representative-court-in-al-ain-region-to-mark-flag-day-2026/",
+   "published": "2026-11-03",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Theyab bin Mohamed bin Zayed raises UAE flag at Wahat Al Karama to mark Flag Day",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/theyab-bin-mohamed-bin-zayed-raises-uae-flag-at-wahat-al-karama-to-mark-flag-day-2026/",
+   "published": "2026-11-03",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Abu Dhabi Customs wins GCC Digital Government Award for Invisible Customs initiative",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/abu-dhabi-customs-wins-gcc-digital-government-award-for-invisible-customs-initiative/",
+   "published": "2026-10-30",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Hamdan bin Zayed receives Department of Government Enablement delegation and reviews government services and employment opportunities in Al Dhafra Region",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/hamdan-bin-zayed-receives-department-of-government-enablement-delegation-and-reviews-government-services-and-employment-opportunities-in-al-dhafra-region/",
+   "published": "2026-10-30",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Organised by Department of Government Enablement – Abu Dhabi, Hospitality Excellence Forum establishes new standards across service sectors",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/organised-by-department-of-government-enablement-abu-dhabi-hospitality-excellence-forum-establishes-new-standards-across-service-sectors/",
+   "published": "2026-10-26",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Theyab bin Mohamed bin Zayed leads UAE delegation at NDTV World Summit 2026 in New Delhi",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/theyab-bin-mohamed-bin-zayed-leads-uae-delegation-at-ndtv-world-summit-2026-in-new-delhi/",
+   "published": "2026-10-23",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Theyab bin Mohamed bin Zayed meets Prime Minister of India on sidelines of NDTV World Summit 2026",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/theyab-bin-mohamed-bin-zayed-meets-prime-minister-of-india-on-sidelines-of-ndtv-world-summit-2026/",
+   "published": "2026-10-23",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Theyab bin Mohamed bin Zayed receives Prime Minister of Singapore at Wahat Al Karama",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/theyab-bin-mohamed-bin-zayed-receives-prime-minister-of-singapore-at-wahat-al-karama/",
+   "published": "2026-10-21",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "UAE President receives French President at start of official visit to UAE",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/uae-president-receives-french-president-at-start-of-official-visit-to-uae/",
+   "published": "2026-10-19",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "UAE President and French President discuss cooperation and regional developments",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/uae-president-and-french-president-discuss-cooperation-and-regional-developments/",
+   "published": "2026-10-19",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Under the directives of Khaled bin Mohamed bin Zayed, Department of Government Enablement announces establishment of TAMM Global company to expand TAMM platform’s global reach",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/under-the-directives-of-khaled-bin-mohamed-bin-zayed-department-of-government-enablement-announces-establishment-of-tamm-global-company-to-expand-tamm-platforms-global-reach/",
+   "published": "2026-10-16",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "UAE President directs renaming Al Ain International Airport to Tahnoun International Airport",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/uae-president-directs-renaming-al-ain-international-airport-to-tahnoun-international-airport/",
+   "published": "2026-10-11",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Department of Government Enablement – Abu Dhabi launches AiNative training programme in collaboration with OpenAI, Microsoft and MBZUAI",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/department-of-government-enablement-abu-dhabi-launches-ainative-training-programme-in-collaboration-with-openai-microsoft-and-mbzuai/",
+   "published": "2026-10-07",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "In the presence of Khaled bin Mohamed bin Zayed, Tahnoon bin Zayed chairs meeting of Artificial Intelligence and Advanced Technology Council",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/in-the-presence-of-khaled-bin-mohamed-bin-zayed-tahnoon-bin-zayed-chairs-meeting-of-artificial-intelligence-and-advanced-technology-council-2026/",
+   "published": "2026-10-06",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Khaled bin Mohamed bin Zayed issues resolution appointing Dr. Mohamed Abdalla Al Zaabi as Undersecretary of Department of Culture and Tourism",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/khaled-bin-mohamed-bin-zayed-issues-resolution-appointing-dr-mohamed-abdalla-al-zaabi-as-undersecretary-of-department-of-culture-and-tourism/",
+   "published": "2026-10-05",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Abu Dhabi Housing Authority wins 1st place at GCC Housing Award for West Bani Yas Residential Project",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/abu-dhabi-housing-authority-wins-1st-place-at-gcc-housing-award-for-west-bani-yas-residential-project/",
+   "published": "2026-10-04",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Sultan of Oman receives Tahnoon bin Zayed",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/sultan-of-oman-receives-tahnoon-bin-zayed/",
+   "published": "2026-09-30",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Hazza bin Zayed receives Khaled bin Mohamed bin Zayed at his residence in Al Ain Region",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/hazza-bin-zayed-receives-khaled-bin-mohamed-bin-zayed-at-his-residence-in-al-ain-region/",
+   "published": "2026-09-25",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Executive Council issues resolution appointing Abdulla Hamad Alghfeli as Director General of Integrated Transport Centre",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/executive-council-issues-resolution-appointing-abdulla-hamad-alghfeli-as-director-general-of-integrated-transport-centre/",
+   "published": "2026-09-23",
+   "lang": "en",
+   "category": "government-affairs"
+  },
+  {
+   "title": "Abu Dhabi Civil Defence Authority wins 1st place at EMS World Clinical Challenge 2026 in US",
+   "link": "https://www.mediaoffice.abudhabi/en/security/abu-dhabi-civil-defence-authority-wins-1st-place-at-ems-world-clinical-challenge-2026-in-us/",
+   "published": "2026-11-08",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Rabdan Security and Defence Institute to host Middle East Defence Conference 2026 in emirate",
+   "link": "https://www.mediaoffice.abudhabi/en/security/rabdan-security-and-defence-institute-to-host-middle-east-defence-conference-2026-in-emirate/",
+   "published": "2026-10-28",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "During official visit to Greece, Crown Prince of Abu Dhabi visits Technical Training and Qualification Center and meets Emirati military students",
+   "link": "https://www.mediaoffice.abudhabi/en/crown-prince-news/during-official-visit-to-greece-crown-prince-of-abu-dhabi-visits-technical-training-and-qualification-center-and-meets-emirati-military-students/",
+   "published": "2026-10-24",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Abu Dhabi Police enhances Captain Sanad’s capabilities with AI to strengthen communication and public awareness",
+   "link": "https://www.mediaoffice.abudhabi/en/security/abu-dhabi-police-enhances-captain-sanads-capabilities-with-ai-to-strengthen-communication-and-public-awareness/",
+   "published": "2026-10-17",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "In collaboration with Abu Dhabi Real Estate Centre, Abu Dhabi Civil Defence Authority launches My Home is Safe initiative",
+   "link": "https://www.mediaoffice.abudhabi/en/security/in-collaboration-with-abu-dhabi-real-estate-centre-abu-dhabi-civil-defence-authority-launches-my-home-is-safe-initiative/",
+   "published": "2026-10-16",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "In collaboration with Zayed Authority for People of Determination, Abu Dhabi Police launches Sign Language Voice platform to enhance police services for deaf and hearing-impaired people",
+   "link": "https://www.mediaoffice.abudhabi/en/security/in-collaboration-with-zayed-authority-for-people-of-determination-abu-dhabi-police-launches-sign-language-voice-platform-to-enhance-police-services-for-deaf-and-hearing-impaired-people/",
+   "published": "2026-10-15",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Organised by the AgriFood Growth and Water Abundance cluster at Abu Dhabi Investment Office",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/organised-by-the-agrifood-growth-and-water-abundance-cluster-at-abu-dhabi-investment-office/",
+   "published": "2026-10-11",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Hazza bin Zayed receives delegation from Abu Dhabi Police, Civil Defence and Crises Management Centre",
+   "link": "https://www.mediaoffice.abudhabi/en/security/hazza-bin-zayed-receives-delegation-from-abu-dhabi-police-civil-defence-and-crises-management-centre/",
+   "published": "2026-10-02",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "15th United Nations Congress on Crime Prevention and Criminal Justice – Abu Dhabi 2026 takes place in the emirate",
+   "link": "https://www.mediaoffice.abudhabi/en/security/15th-united-nations-congress-on-crime-prevention-and-criminal-justice-abu-dhabi-2026-takes-place-in-the-emirate/",
+   "published": "2026-09-26",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Saif bin Zayed attends 15th United Nations Congress on Crime Prevention and Criminal Justice – Abu Dhabi 2026",
+   "link": "https://www.mediaoffice.abudhabi/en/security/saif-bin-zayed-attends-15th-united-nations-congress-on-crime-prevention-and-criminal-justice-abu-dhabi-2026/",
+   "published": "2026-09-26",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Abu Dhabi Hazardous Materials Management Centre partners with Presight to harness AI for proactive risk management",
+   "link": "https://www.mediaoffice.abudhabi/en/security/abu-dhabi-hazardous-materials-management-centre-partners-with-presight-to-harness-ai-for-proactive-risk-management/",
+   "published": "2026-09-14",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "46th World Congress of Military Medicine – Abu Dhabi 2026 to feature participation of 120+ countries in November",
+   "link": "https://www.mediaoffice.abudhabi/en/security/46th-world-congress-of-military-medicine-abu-dhabi-2026-to-feature-participation-of-120-countries-in-november/",
+   "published": "2026-08-26",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Rabdan Academy launches Bachelor of Disaster Management programme, enhancing national preparedness and resilience",
+   "link": "https://www.mediaoffice.abudhabi/en/security/rabdan-academy-launches-bachelor-of-disaster-management-programme-enhancing-national-preparedness-and-resilience/",
+   "published": "2026-08-18",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Rabdan Academy hosts Gaming for Good: Online Safety Hackathon",
+   "link": "https://www.mediaoffice.abudhabi/en/security/rabdan-academy-hosts-gaming-for-good-online-safety-hackathon/",
+   "published": "2026-08-06",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Mansour bin Zayed reviews Cyber Security Council, Abu Dhabi Police programmes at Sheikh Zayed Summer Festival",
+   "link": "https://www.mediaoffice.abudhabi/en/security/mansour-bin-zayed-reviews-cyber-security-council-abu-dhabi-police-programmes-at-sheikh-zayed-summer-festival/",
+   "published": "2026-07-30",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "UAE President commends global humanitarian efforts of UAE Search and Rescue Team",
+   "link": "https://www.mediaoffice.abudhabi/en/security/uae-president-commends-global-humanitarian-efforts-of-uae-search-and-rescue-team/",
+   "published": "2026-07-27",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Hamdan bin Zayed receives UAE Cyber Security Council delegation and commends establishment of National Cloud's backup data centres in Al Dhafra Region",
+   "link": "https://www.mediaoffice.abudhabi/en/security/hamdan-bin-zayed-receives-uae-cyber-security-council-delegation-and-commends-establishment-of-national-clouds-backup-data-centres-in-al-dhafra-region/",
+   "published": "2026-07-24",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Abu Dhabi Civil Defence Authority receives recognition from National Fire Protection Association in US for sustainable fire safety and prevention system",
+   "link": "https://www.mediaoffice.abudhabi/en/security/abu-dhabi-civil-defence-authority-receives-recognition-from-national-fire-protection-association-in-us-for-sustainable-fire-safety-and-prevention-system/",
+   "published": "2026-07-20",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Tawazun Council for Defence Enablement and Emirates Council for Balanced Development sign agreement to launch Rawaafid Programme for Defence Industries Micro-Parks",
+   "link": "https://www.mediaoffice.abudhabi/en/security/tawazun-council-for-defence-enablement-and-emirates-council-for-balanced-development-sign-agreement-to-launch-rawaafid-programme-for-defence-industries-micro-parks/",
+   "published": "2026-07-16",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Emergencies, Crises and Disasters Management Centre Abu Dhabi organises training workshop to enhance preparedness in risks",
+   "link": "https://www.mediaoffice.abudhabi/en/security/emergencies-crises-and-disasters-management-centre-abu-dhabi-organises-training-workshop-to-enhance-preparedness-in-risks/",
+   "published": "2026-07-09",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "In his capacity as Chairman of Abu Dhabi Judicial Department, Mansour bin Zayed issues resolution establishing specialised court for human trafficking crimes",
+   "link": "https://www.mediaoffice.abudhabi/en/government-affairs/in-his-capacity-as-chairman-of-abu-dhabi-judicial-department-mansour-bin-zayed-issues-resolution-establishing-specialised-court-for-human-trafficking-crimes/",
+   "published": "2026-07-07",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "ADNEC Group contributes record AED9.2bn+ to UAE economy in 2025",
+   "link": "https://www.mediaoffice.abudhabi/en/economy/adnec-group-contributes-record-aed-92bn-to-uae-economy-in-2025/",
+   "published": "2026-07-06",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Abu Dhabi Department of Energy annual Safety in Heat campaign reinforces safe working practices across energy sector facilities",
+   "link": "https://www.mediaoffice.abudhabi/en/energy/abu-dhabi-department-of-energy-annual-safety-in-heat-campaign-reinforces-safe-working-practices-across-energy-sector-facilities/",
+   "published": "2026-06-25",
+   "lang": "en",
+   "category": "security"
+  },
+  {
+   "title": "Rabdan Academy launches Master of Science in Financial Crime",
+   "link": "https://www.mediaoffice.abudhabi/en/security/rabdan-academy-launches-master-of-science-in-financial-crime/",
+   "published": "2026-06-25",
+   "lang": "en",
+   "category": "security"
+  }
+ ]
+}

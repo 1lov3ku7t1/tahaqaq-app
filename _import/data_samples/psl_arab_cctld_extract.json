@@ -1,0 +1,113 @@
+{
+ "ae": [
+  "ae",
+  "ac.ae",
+  "co.ae",
+  "gov.ae",
+  "mil.ae",
+  "net.ae",
+  "org.ae",
+  "sch.ae"
+ ],
+ "bh": [
+  "bh",
+  "com.bh",
+  "edu.bh",
+  "gov.bh",
+  "net.bh",
+  "org.bh"
+ ],
+ "eg": [
+  "eg",
+  "ac.eg",
+  "com.eg",
+  "edu.eg",
+  "eun.eg",
+  "gov.eg",
+  "info.eg",
+  "me.eg",
+  "mil.eg",
+  "name.eg",
+  "net.eg",
+  "org.eg",
+  "sci.eg",
+  "sport.eg",
+  "tv.eg"
+ ],
+ "jo": [
+  "jo",
+  "agri.jo",
+  "ai.jo",
+  "com.jo",
+  "edu.jo",
+  "eng.jo",
+  "fm.jo",
+  "gov.jo",
+  "mil.jo",
+  "net.jo",
+  "org.jo",
+  "per.jo",
+  "phd.jo",
+  "sch.jo",
+  "tv.jo"
+ ],
+ "kw": [
+  "kw",
+  "com.kw",
+  "edu.kw",
+  "emb.kw",
+  "gov.kw",
+  "ind.kw",
+  "net.kw",
+  "org.kw"
+ ],
+ "ma": [
+  "ma",
+  "ac.ma",
+  "co.ma",
+  "gov.ma",
+  "net.ma",
+  "org.ma",
+  "press.ma"
+ ],
+ "om": [
+  "om",
+  "co.om",
+  "com.om",
+  "edu.om",
+  "gov.om",
+  "med.om",
+  "museum.om",
+  "net.om",
+  "org.om",
+  "pro.om"
+ ],
+ "qa": [
+  "qa",
+  "com.qa",
+  "edu.qa",
+  "gov.qa",
+  "mil.qa",
+  "name.qa",
+  "net.qa",
+  "org.qa",
+  "sch.qa"
+ ],
+ "sa": [
+  "sa",
+  "com.sa",
+  "edu.sa",
+  "gov.sa",
+  "med.sa",
+  "net.sa",
+  "org.sa",
+  "pub.sa",
+  "sch.sa"
+ ],
+ "_gtlds_operated_by_uae_government_per_psl_comment": {
+  "dubai": "Dubai Smart Government Department",
+  "abudhabi": "Abu Dhabi Systems and Information Centre",
+  "امارات (xn--mgbaam7a8h)": "AE (aeda.ae)"
+ },
+ "_source": "https://raw.githubusercontent.com/publicsuffix/list/main/public_suffix_list.dat (Mozilla Public Suffix List, MPL-2.0), fetched 2026-11-10"
+}

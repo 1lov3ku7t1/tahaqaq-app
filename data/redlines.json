@@ -1,0 +1,49 @@
+{
+ "_note": "Each rule quotes a published advisory. text_ar empty unless an official Arabic wording is on file. approved_by_lead must be true to ship.",
+ "rules": [
+  {
+   "id": "RL_DETAILS",
+   "trigger": "official_asks_details",
+   "text_en": "Authorities \"never request personal or banking details through phone calls, text messages, or unknown links\".",
+   "text_ar": "",
+   "publisher": "Ministry of Interior (via Gulf News)",
+   "source_url": "https://gulfnews.com/uae/government/beware-of-scam-calls-uae-interior-ministry-warns-1.500459583",
+   "published": "2026-03-01",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "RL_VOICE",
+   "trigger": "voice_or_video_only",
+   "text_en": "Dubai Police: do \"not rely solely on voice or image verification\"; verify through trusted channels.",
+   "text_ar": "",
+   "publisher": "Dubai Police (via Emirates 24/7)",
+   "source_url": "https://www.emirates247.com/uae/dubai-police-alert-public-to-ai-powered-scams-using-fake-voices-and-images/6451",
+   "published": "2026-10-07",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "RL_HIJACK",
+   "trigger": "family_or_saved_number",
+   "text_en": "TDRA, if a WhatsApp account is hacked: contacts should \"not to respond to any messages coming from your number\". Call instead.",
+   "text_ar": "",
+   "publisher": "TDRA (via Gulf News)",
+   "source_url": "https://gulfnews.com/living-in-uae/telephone-internet/what-to-do-if-your-whatsapp-account-gets-hacked-uae-telecom-authority-shares-steps-to-follow-1.1696344392181",
+   "published": "2023-10-03",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "RL_REPOST",
+   "trigger": "forward_or_public_content",
+   "text_en": "Cyber Security Council: verify content attributed to national institutions through official sources; the public is urged \"to refrain from reposting material of doubtful authenticity\".",
+   "text_ar": "",
+   "publisher": "UAE Cyber Security Council (via The National)",
+   "source_url": "https://www.thenationalnews.com/news/uae/2025/11/07/uae-issues-warning-over-ai-deepfake-threats",
+   "published": "2025-11-07",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "_source": "Abu Dhabi Media Office official RSS, Security category https://www.mediaoffice.abudhabi/en/security/rss/ (index of 15 feeds: https://www.mediaoffice.abudhabi/en/rss-news-feeds-abu-dhabi-media-office/, which names 'AI systems and data platforms' as an intended audience; feed-specific terms not stated). Read 2026-11-10.",
+ "format": "RSS 2.0",
+ "items_in_feed": 24,
+ "scam_or_impersonation_items": 0,
+ "latest_items": [
+  [
+   "2026-11-08",
+   "Abu Dhabi Civil Defence Authority wins 1st place at EMS World Clinical Challenge 2026 in US"
+  ],
+  [
+   "2026-10-28",
+   "Rabdan Security and Defence Institute to host Middle East Defence Conference 2026 in emirate"
+  ],
+  [
+   "2026-10-17",
+   "Abu Dhabi Police enhances Captain Sanad's capabilities with AI to strengthen communication and public awareness"
+  ],
+  [
+   "2026-10-16",
+   "Abu Dhabi Civil Defence Authority launches My Home is Safe initiative"
+  ],
+  [
+   "2026-10-15",
+   "Abu Dhabi Police launches Sign Language Voice platform"
+  ]
+ ],
+ "use": "'Was this new fee / announcement published by an official media office?' lookup over Government Affairs + Security + Economy feeds (last 90 days). Absence = 'not found in official announcements', never 'fake'."
+}

@@ -1,0 +1,17 @@
+cases: 48 | scam: 30 | legit: 18
+scam  -> stop_and_verify : 30/30 (100.0%)
+scam  -> any flag        : 30/30 (100.0%)
+legit -> stop_and_verify : 1/18 (5.6%)  <- false alarm
+legit -> verify_first    : 3/18 (16.7%)
+quote-guard removals     : 0
+latency ms p50/max       : 0.06 1.97
+
+by group:
+  family       {"scam->stop_and_verify":8,"legit->no_signs_found":5,"legit->verify_first":1}
+  official     {"scam->stop_and_verify":10,"legit->no_signs_found":6}
+  bank         {"scam->stop_and_verify":4,"legit->stop_and_verify":1,"legit->verify_first":2}
+  other        {"scam->stop_and_verify":2,"legit->no_signs_found":1}
+  adversarial  {"scam->stop_and_verify":6,"legit->no_signs_found":2}
+
+failures (scam not stopped / legit stopped):
+ LB01 [legit->stop_and_verify] asks=code who= lines=redline:mismatch :: Your one-time code for login is 482913. Do not share this code with anyone, incl

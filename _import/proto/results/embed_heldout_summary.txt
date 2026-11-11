@@ -1,0 +1,4 @@
+model load (cold, CPU, python): 0.91s | library 48 passages: 0.31s | query p50 6 ms, max 8 ms
+embedding kNN alone : scams caught 11/12 | legit flagged 5/8
+rules (stop only)   : scams caught 10/12 | legit flagged 0/8
+two voters          : scams caught 11/12 | legit flagged 2/8 | abstain 5 / 20

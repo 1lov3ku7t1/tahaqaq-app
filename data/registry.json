@@ -1,0 +1,137 @@
+{
+ "_note": "Ships only rows with approved_by_lead=true and source_url on the entity's own site. Do not add rows from memory.",
+ "entities": [
+  {
+   "id": "NMA",
+   "names_ar": [],
+   "names_en": [
+    "National Media Authority"
+   ],
+   "aliases": [],
+   "domains": [
+    "nma.gov.ae"
+   ],
+   "phones": [
+    {
+     "e164": "+971800971",
+     "kind": "toll_free"
+    }
+   ],
+   "portal_url": "https://www.nma.gov.ae/en",
+   "source_url": "https://u.ae/en/Help/The-Government",
+   "source_title": "u.ae — The Government (directory, first page)",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false,
+   "notes": "Directory row only. Entity's own contact page not yet opened. Needs lead approval (rule 4)."
+  },
+  {
+   "id": "EtihadWE",
+   "names_ar": [],
+   "names_en": [
+    "Etihad Water and Electricity"
+   ],
+   "aliases": [],
+   "domains": [],
+   "phones": [
+    {
+     "e164": "+9718003392",
+     "kind": "toll_free"
+    }
+   ],
+   "portal_url": "",
+   "source_url": "https://u.ae/en/Help/The-Government",
+   "source_title": "u.ae — The Government (directory, first page)",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false,
+   "notes": "Directory row only. Entity's own contact page not yet opened. Needs lead approval (rule 4)."
+  },
+  {
+   "id": "MOHESR",
+   "names_ar": [],
+   "names_en": [
+    "Ministry of Higher Education and Scientific Research"
+   ],
+   "aliases": [],
+   "domains": [
+    "mohesr.gov.ae"
+   ],
+   "phones": [
+    {
+     "e164": "+971800511",
+     "kind": "toll_free"
+    }
+   ],
+   "portal_url": "https://www.mohesr.gov.ae/En/pages/home.aspx",
+   "source_url": "https://u.ae/en/Help/The-Government",
+   "source_title": "u.ae — The Government (directory, first page)",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false,
+   "notes": "Directory row only. Entity's own contact page not yet opened. Needs lead approval (rule 4)."
+  },
+  {
+   "id": "Awqaf",
+   "names_ar": [],
+   "names_en": [
+    "General Authority Of Islamic Affairs, Endowments & Zakat"
+   ],
+   "aliases": [],
+   "domains": [
+    "awqaf.gov.ae"
+   ],
+   "phones": [
+    {
+     "e164": "+9718008222",
+     "kind": "toll_free"
+    }
+   ],
+   "portal_url": "https://www.awqaf.gov.ae/",
+   "source_url": "https://u.ae/en/Help/The-Government",
+   "source_title": "u.ae — The Government (directory, first page)",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false,
+   "notes": "Directory row only. Entity's own contact page not yet opened. Needs lead approval (rule 4)."
+  },
+  {
+   "id": "EmiratesPost",
+   "names_ar": [],
+   "names_en": [
+    "Emirates Post"
+   ],
+   "aliases": [],
+   "domains": [],
+   "phones": [
+    {
+     "e164": "+971600599999",
+     "kind": "uan"
+    }
+   ],
+   "portal_url": "",
+   "source_url": "https://u.ae/en/Help/The-Government",
+   "source_title": "u.ae — The Government (directory, first page)",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false,
+   "notes": "Directory row only. Entity's own contact page not yet opened. Needs lead approval (rule 4)."
+  },
+  {
+   "id": "DubaiCSD",
+   "names_ar": [],
+   "names_en": [
+    "DUBAI CSD"
+   ],
+   "aliases": [],
+   "domains": [],
+   "phones": [
+    {
+     "e164": "+97143055555",
+     "kind": "fixed"
+    }
+   ],
+   "portal_url": "",
+   "source_url": "https://u.ae/en/Help/The-Government",
+   "source_title": "u.ae — The Government (directory, first page)",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false,
+   "notes": "Directory row only. Entity's own contact page not yet opened. Needs lead approval (rule 4)."
+  }
+ ]
+}

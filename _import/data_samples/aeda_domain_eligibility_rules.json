@@ -1,0 +1,45 @@
+{
+ "_source": "AEDA-POL-007 Domain Name Eligibility Policy v1.0, issued 21/04/2008, effective 03/08/2008, .aeDA (TDRA). Text read via registrar mirror https://centralnicdomains.com/ccTLDPolicies/AE/Domain%20Name%20Eligibility%20Policy.pdf on 2026-11-10 (not from aeda.ae, which was unreachable). Current validity UNVERIFIED.",
+ "rules": [
+  {
+   "suffix": "gov.ae",
+   "section": "15",
+   "eligible": "Government Departments and Ministries of the UAE; organisation established by UAE law or decree as a government department or agency",
+   "evidence": "letter from the relevant Minister or Officer",
+   "use": "only for the official business of the Registrant"
+  },
+  {
+   "suffix": "mil.ae",
+   "section": "16",
+   "eligible": "military authorities of the UAE",
+   "evidence": "letter from the relevant Minister or Officer"
+  },
+  {
+   "suffix": "ac.ae / sch.ae",
+   "section": "14",
+   "eligible": "schools and academic organisations within the UAE",
+   "evidence": "certificate of registration or Ministry of Education letter"
+  },
+  {
+   "suffix": "org.ae",
+   "section": "13",
+   "eligible": "not-for-profit organisations of the UAE"
+  },
+  {
+   "suffix": "co.ae",
+   "section": "11",
+   "eligible": "commercial entities with a UAE trade licence or UAE trade mark; free-zone entities NOT eligible"
+  },
+  {
+   "suffix": "net.ae",
+   "section": "12",
+   "eligible": "IT service providers with UAE trade licence"
+  },
+  {
+   "suffix": ".ae (2LD)",
+   "section": "10",
+   "eligible": "unrestricted: no documentary evidence required"
+  }
+ ],
+ "design_consequence": "x.gov.ae => registrant vetted as a UAE government body (strong positive signal for 'is this domain government-owned'). x.ae => anyone could register it (no signal). Many real entities are NOT on gov.ae (e.g. centralbank.ae, u.ae, rta.ae, mediaoffice.abudhabi), so absence from gov.ae must fall through to the entity registry, never to 'fake'."
+}

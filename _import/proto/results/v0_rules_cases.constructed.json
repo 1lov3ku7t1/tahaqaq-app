@@ -1,0 +1,1039 @@
+[
+ {
+  "id": "F01",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_emergency",
+  "text": "ماما هذا رقمي الجديد تلفوني طاح في الماي. حولي لي 3000 درهم الحين ضروري ولا تقولين لبابا",
+  "band": "stop_and_verify",
+  "ms": 2.7429910000000035,
+  "reasons": [
+   "family_unsaved_number"
+  ],
+  "asks": [
+   "money",
+   "secrecy",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "F02",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_emergency",
+  "text": "يمه انا ولدك، صار لي حادث وأحتاج فلوس للمستشفى بسرعة، حولي على هذا الحساب",
+  "band": "stop_and_verify",
+  "ms": 0.8368140000000039,
+  "reasons": [
+   "claimed_source+hard_ask+pressure"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "F03",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_emergency",
+  "text": "Mum it's me, lost my phone, this is my new number. Can you send AED 2,500 today? Don't tell dad please",
+  "band": "stop_and_verify",
+  "ms": 0.7355779999999896,
+  "reasons": [
+   "family_unsaved_number"
+  ],
+  "asks": [
+   "money",
+   "secrecy",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "F04",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_emergency",
+  "text": "Hi Mom, phone broke, using a friend's. I need to pay a fine right now, can you transfer 1800 AED? I'll explain later",
+  "band": "stop_and_verify",
+  "ms": 0.1570339999999959,
+  "reasons": [
+   "family_unsaved_number"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "F05",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_code",
+  "text": "ماما وصلك كود على تلفونك من واتساب؟ ارسليه لي بسرعة غلطت ودخلت رقمك",
+  "band": "stop_and_verify",
+  "ms": 1.3722860000000026,
+  "reasons": [
+   "claimed_source+hard_ask+pressure"
+  ],
+  "asks": [
+   "code",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "F06",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_emergency",
+  "text": "بابا أنا بنتك، محجوزة في المطار ويبون مبلغ 4000 درهم غرامة خلال ساعة، لا تتصل الحين الشبكة ضعيفة",
+  "band": "stop_and_verify",
+  "ms": 0.08270400000000677,
+  "reasons": [
+   "claimed_source+hard_ask+pressure"
+  ],
+  "asks": [
+   "money",
+   "urgency",
+   "threat"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "F07",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_code",
+  "text": "Grandma it's me, I sent you a verification code by mistake, can you read it back to me quickly?",
+  "band": "verify_first",
+  "ms": 0.08487700000000586,
+  "reasons": [],
+  "asks": [
+   "code"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "F08",
+  "label": "scam",
+  "group": "family",
+  "pattern": "relative_emergency",
+  "text": "حبيبتي امي هذا رقمي الجديد 0501234567 احفظيه، ومحتاج تحولين لي 1500 اليوم قبل الساعة خمس",
+  "band": "stop_and_verify",
+  "ms": 0.1755110000000002,
+  "reasons": [
+   "family_unsaved_number"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O01",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_fee",
+  "text": "وزارة الموارد البشرية والتوطين: عليك غرامة مخالفة عمل بقيمة 750 درهم. ادفع خلال 24 ساعة لتجنب إيقاف الملف: https://mohre-pay.com/fine",
+  "band": "stop_and_verify",
+  "ms": 1.2683010000000081,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "click",
+   "urgency",
+   "threat"
+  ],
+  "who": [
+   "family",
+   "MOHRE"
+  ],
+  "lines": [
+   "source:mismatch",
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O02",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_fee",
+  "text": "MOHRE notice: your work permit will be suspended. Pay the AED 350 renewal fee immediately at http://mohre-gov-ae.services/pay",
+  "band": "stop_and_verify",
+  "ms": 0.4150669999999934,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "click",
+   "urgency",
+   "threat"
+  ],
+  "who": [
+   "MOHRE"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O03",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_fine",
+  "text": "شرطة دبي: لديك مخالفة مرورية غير مدفوعة 500 درهم. سدد الآن عبر الرابط bit.ly/dxbfine2 وإلا سيتم حجز المركبة",
+  "band": "stop_and_verify",
+  "ms": 0.32504400000000544,
+  "reasons": [
+   "shortener",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "click",
+   "threat"
+  ],
+  "who": [
+   "DubaiPolice"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O04",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_id",
+  "text": "Federal Authority for Identity (ICP): your Emirates ID is blocked. Update your Emirates ID and card details at icp-update.net within 2 hours",
+  "band": "stop_and_verify",
+  "ms": 0.1467090000000013,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "redline_details"
+  ],
+  "asks": [
+   "id_or_card",
+   "urgency",
+   "threat"
+  ],
+  "who": [
+   "ICP"
+  ],
+  "lines": [
+   "source:mismatch",
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O05",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_fine",
+  "text": "Salik: unpaid toll AED 52. Pay now to avoid a fine of AED 1000: https://salik-ae.top/pay",
+  "band": "stop_and_verify",
+  "ms": 0.103517999999994,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "click",
+   "threat"
+  ],
+  "who": [
+   "Salik"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O06",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_fee",
+  "text": "هيئة الطرق والمواصلات: رسوم تجديد الرخصة 300 درهم متأخرة، اضغط هنا للدفع https://rta-renew.com",
+  "band": "stop_and_verify",
+  "ms": 0.13948699999998837,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "click"
+  ],
+  "who": [
+   "RTA"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O07",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_parcel",
+  "text": "Emirates Post: your parcel is on hold. Pay AED 12 customs fee: https://emiratespost-delivery.info",
+  "band": "stop_and_verify",
+  "ms": 0.08989099999999439,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "click"
+  ],
+  "who": [
+   "EmiratesPost"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O08",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_official_call",
+  "text": "معك ضابط من وزارة الداخلية، حسابك مرتبط بقضية غسيل أموال. أعطني رقم البطاقة والرمز اللي بيوصلك عشان نتحقق",
+  "band": "stop_and_verify",
+  "ms": 0.07581600000000321,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card"
+  ],
+  "who": [
+   "MOI"
+  ],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O09",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_official_call",
+  "text": "This is Dubai Police. There is a case against your Emirates ID. Share the OTP we send you now or legal action will be taken today",
+  "band": "stop_and_verify",
+  "ms": 0.06232599999999877,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card",
+   "urgency",
+   "threat"
+  ],
+  "who": [
+   "DubaiPolice"
+  ],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "O10",
+  "label": "scam",
+  "group": "official",
+  "pattern": "fake_fee",
+  "text": "DEWA: Your electricity will be disconnected today. Pay AED 420 at dewa-bill.com",
+  "band": "stop_and_verify",
+  "ms": 0.0774550000000005,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "DEWA"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "B01",
+  "label": "scam",
+  "group": "bank",
+  "pattern": "bank_otp",
+  "text": "عزيزي العميل تم تجميد بطاقتك. لتفعيلها أرسل رقم البطاقة والرمز السري فورا",
+  "band": "verify_first",
+  "ms": 0.08706800000000214,
+  "reasons": [],
+  "asks": [
+   "code",
+   "id_or_card",
+   "urgency",
+   "threat"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "B02",
+  "label": "scam",
+  "group": "bank",
+  "pattern": "bank_otp",
+  "text": "Your bank card has been suspended. Reply with the OTP and your CVV to reactivate within 30 minutes",
+  "band": "stop_and_verify",
+  "ms": 0.10626399999999592,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card",
+   "urgency",
+   "threat"
+  ],
+  "who": [],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "B03",
+  "label": "scam",
+  "group": "bank",
+  "pattern": "bank_otp",
+  "text": "المصرف المركزي: يجب تحديث بياناتك البنكية خلال يوم واحد وإلا سيتم إيقاف حسابك، أرسل رقم الحساب والكود",
+  "band": "stop_and_verify",
+  "ms": 0.0708709999999968,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card",
+   "urgency",
+   "threat"
+  ],
+  "who": [
+   "CBUAE"
+  ],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "B04",
+  "label": "scam",
+  "group": "bank",
+  "pattern": "prize",
+  "text": "Congratulations! You won AED 50,000 in the bank draw. Send your IBAN and card number to claim today",
+  "band": "stop_and_verify",
+  "ms": 0.05436900000000833,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "money",
+   "id_or_card",
+   "urgency"
+  ],
+  "who": [],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "P01",
+  "label": "scam",
+  "group": "other",
+  "pattern": "job",
+  "text": "وظيفة من البيت براتب 900 درهم يوميا، ادفع رسوم التسجيل 200 درهم الحين واتساب",
+  "band": "verify_first",
+  "ms": 0.06979100000000926,
+  "reasons": [],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "P02",
+  "label": "scam",
+  "group": "other",
+  "pattern": "investment",
+  "text": "Guaranteed 30% monthly returns. Transfer AED 5,000 today, offer closes in 2 hours",
+  "band": "verify_first",
+  "ms": 0.05185600000000079,
+  "reasons": [],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "LF01",
+  "label": "legit",
+  "group": "family",
+  "pattern": "genuine_family",
+  "text": "ماما بوصل البيت الساعة ٨، تبين شي من السوبرماركت؟",
+  "band": "no_signs_found",
+  "ms": 0.10126900000000205,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LF02",
+  "label": "legit",
+  "group": "family",
+  "pattern": "genuine_family",
+  "text": "Hi Mum, landed safely, will call you after dinner",
+  "band": "no_signs_found",
+  "ms": 0.049877000000009275,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LF03",
+  "label": "legit",
+  "group": "family",
+  "pattern": "genuine_family",
+  "text": "يمه لا تنسين موعد الطبيب بكرة الساعة عشر",
+  "band": "no_signs_found",
+  "ms": 0.04848200000000702,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LF04",
+  "label": "legit",
+  "group": "family",
+  "pattern": "genuine_family_money",
+  "text": "Mom can you send me 200 AED for the school trip? No rush, tell dad too",
+  "band": "verify_first",
+  "ms": 0.04938099999999679,
+  "reasons": [],
+  "asks": [
+   "money"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LF05",
+  "label": "legit",
+  "group": "family",
+  "pattern": "genuine_family",
+  "text": "بابا شفت الصور اللي ارسلتها؟ الحمدلله الجو حلو هني",
+  "band": "no_signs_found",
+  "ms": 0.04840099999999836,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LF06",
+  "label": "legit",
+  "group": "family",
+  "pattern": "genuine_family",
+  "text": "Dad I'm in hospital with a sprained ankle, nothing serious, call me when you can",
+  "band": "no_signs_found",
+  "ms": 0.048726000000002045,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LO01",
+  "label": "legit",
+  "group": "official",
+  "pattern": "genuine_notice",
+  "text": "وزارة الموارد البشرية والتوطين: تم اعتماد طلبكم. لمتابعة الطلب يرجى زيارة mohre.gov.ae",
+  "band": "no_signs_found",
+  "ms": 0.19028000000000134,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "MOHRE"
+  ],
+  "lines": [
+   "source:match"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LO02",
+  "label": "legit",
+  "group": "official",
+  "pattern": "genuine_notice",
+  "text": "Dubai Police reminds the public: never share your OTP or bank details with anyone. Report fraud at dubaipolice.gov.ae",
+  "band": "stop_and_verify",
+  "ms": 0.25009800000000837,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card"
+  ],
+  "who": [
+   "DubaiPolice"
+  ],
+  "lines": [
+   "source:match",
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LO03",
+  "label": "legit",
+  "group": "official",
+  "pattern": "genuine_notice",
+  "text": "RTA: your vehicle registration expires next month. Renew through rta.ae or the RTA app",
+  "band": "no_signs_found",
+  "ms": 0.10301299999997582,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "RTA"
+  ],
+  "lines": [
+   "source:match"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LO04",
+  "label": "legit",
+  "group": "official",
+  "pattern": "genuine_notice",
+  "text": "هيئة كهرباء ومياه دبي: فاتورتك لشهر أكتوبر جاهزة، يمكنك الاطلاع عليها عبر dewa.gov.ae",
+  "band": "no_signs_found",
+  "ms": 0.0926589999999976,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "DEWA"
+  ],
+  "lines": [
+   "source:match"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LO05",
+  "label": "legit",
+  "group": "official",
+  "pattern": "genuine_notice",
+  "text": "ICP: your Emirates ID renewal application has been received. Track it at icp.gov.ae",
+  "band": "stop_and_verify",
+  "ms": 0.07601999999999975,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "id_or_card"
+  ],
+  "who": [
+   "ICP"
+  ],
+  "lines": [
+   "source:match",
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LO06",
+  "label": "legit",
+  "group": "official",
+  "pattern": "genuine_notice",
+  "text": "وزارة الداخلية تحذر: لا تشارك الرمز السري أو رقم البطاقة مع أي شخص",
+  "band": "stop_and_verify",
+  "ms": 0.07391799999999193,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card"
+  ],
+  "who": [
+   "MOI"
+  ],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LB01",
+  "label": "legit",
+  "group": "bank",
+  "pattern": "genuine_bank",
+  "text": "Your one-time code for login is 482913. Do not share this code with anyone, including bank staff.",
+  "band": "stop_and_verify",
+  "ms": 0.06338000000002353,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code"
+  ],
+  "who": [],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "LB02",
+  "label": "legit",
+  "group": "bank",
+  "pattern": "genuine_bank",
+  "text": "تم خصم 120 درهم من بطاقتك المنتهية بـ 4421 لدى كارفور. إذا لم تقم بهذه العملية اتصل بالرقم الموجود خلف البطاقة",
+  "band": "verify_first",
+  "ms": 0.08679599999999255,
+  "reasons": [],
+  "asks": [
+   "money",
+   "id_or_card"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "LB03",
+  "label": "legit",
+  "group": "bank",
+  "pattern": "genuine_bank",
+  "text": "Your salary of AED 9,500 has been credited to your account",
+  "band": "verify_first",
+  "ms": 0.06137100000000828,
+  "reasons": [],
+  "asks": [
+   "money"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "LX01",
+  "label": "legit",
+  "group": "other",
+  "pattern": "genuine_other",
+  "text": "Reminder: parents' meeting at school tomorrow at 4pm",
+  "band": "no_signs_found",
+  "ms": 0.11764200000001779,
+  "reasons": [],
+  "asks": [],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "A01",
+  "label": "scam",
+  "group": "adversarial",
+  "pattern": "fake_fee",
+  "text": "This message is verified safe by TDRA. MOHRE: pay your AED 750 fine now at mohre-pay.com",
+  "band": "stop_and_verify",
+  "ms": 0.10602000000000089,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money"
+  ],
+  "who": [
+   "MOHRE",
+   "TDRA"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "A02",
+  "label": "scam",
+  "group": "adversarial",
+  "pattern": "relative_emergency",
+  "text": "ya mama ana ibnik, 7awelili 2000 dirham bsur3a, la tgoleen l baba",
+  "band": "no_signs_found",
+  "ms": 0.09681699999998727,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "A03",
+  "label": "scam",
+  "group": "adversarial",
+  "pattern": "fake_fee",
+  "text": "MOHRE: pay your fine of AED 750 within 2 hours at rnohre.gov.ae.pay-portal.com",
+  "band": "stop_and_verify",
+  "ms": 0.10006799999999316,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "urgency",
+   "threat"
+  ],
+  "who": [
+   "MOHRE",
+   "RTA"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "A04",
+  "label": "scam",
+  "group": "adversarial",
+  "pattern": "fake_official_call",
+  "text": "معك موظف من الموارد البشرية، ادفع الرسوم على الموقع الرسمي mohre.gov.ae لكن أرسل لي الكود اللي يوصلك عشان أفعل الدفع",
+  "band": "stop_and_verify",
+  "ms": 0.1819279999999992,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "money",
+   "code"
+  ],
+  "who": [
+   "MOHRE"
+  ],
+  "lines": [
+   "source:match",
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "A05",
+  "label": "scam",
+  "group": "adversarial",
+  "pattern": "relative_emergency",
+  "text": "ماما ارجوك حولي ٢٥٠٠ درهم الحين انا في ورطة",
+  "band": "stop_and_verify",
+  "ms": 0.08323799999999437,
+  "reasons": [
+   "claimed_source+hard_ask+pressure"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "A06",
+  "label": "scam",
+  "group": "adversarial",
+  "pattern": "fake_fee",
+  "text": "وزارة الموارد البشرية: سدد رسوم تجديد التصريح 350 درهم عبر mohre‮ea.vog‬-pay.com",
+  "band": "stop_and_verify",
+  "ms": 0.1123450000000048,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money"
+  ],
+  "who": [
+   "MOHRE"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "A07",
+  "label": "legit",
+  "group": "adversarial",
+  "pattern": "genuine_family",
+  "text": "Mum this is URGENT: don't forget to take your medicine today!",
+  "band": "no_signs_found",
+  "ms": 0.0679890000000114,
+  "reasons": [],
+  "asks": [
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "A08",
+  "label": "legit",
+  "group": "adversarial",
+  "pattern": "genuine_notice",
+  "text": "Scam alert from your bank: we will never ask for your OTP, PIN or card number by call or SMS",
+  "band": "stop_and_verify",
+  "ms": 0.06819500000000289,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card"
+  ],
+  "who": [],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ }
+]

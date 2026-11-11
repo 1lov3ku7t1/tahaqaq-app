@@ -1,0 +1,16 @@
+{
+  "_note": "PROTOTYPE SAMPLE. Domains written from general knowledge by agent I5 on 10 Nov 2026 and NOT re-checked (UAE government sites were unreachable from the sandbox). A4 must replace every 'source' with the entity's own page URL before demo. No phone numbers are included on purpose.",
+  "entities": [
+    {"id": "MOHRE", "names": ["وزاره الموارد البشريه", "الموارد البشريه والتوطين", "mohre", "ministry of human resources"], "domains": ["mohre.gov.ae"], "source": "TO VERIFY"},
+    {"id": "MOI", "names": ["وزاره الداخليه", "ministry of interior"], "domains": ["moi.gov.ae"], "source": "TO VERIFY"},
+    {"id": "DubaiPolice", "names": ["شرطه دبي", "dubai police"], "domains": ["dubaipolice.gov.ae"], "source": "TO VERIFY"},
+    {"id": "ICP", "names": ["الهويه والجنسيه", "icp", "federal authority for identity"], "domains": ["icp.gov.ae"], "source": "TO VERIFY"},
+    {"id": "RTA", "names": ["هيئه الطرق", "rta", "roads and transport authority"], "domains": ["rta.ae"], "source": "TO VERIFY"},
+    {"id": "DEWA", "names": ["هيئه كهرباء ومياه دبي", "ديوا", "dewa"], "domains": ["dewa.gov.ae"], "source": "TO VERIFY"},
+    {"id": "Salik", "names": ["سالك", "salik"], "domains": ["salik.ae"], "source": "TO VERIFY"},
+    {"id": "TDRA", "names": ["هيئه تنظيم الاتصالات", "tdra"], "domains": ["tdra.gov.ae"], "source": "TO VERIFY"},
+    {"id": "EmiratesPost", "names": ["بريد الامارات", "emirates post"], "domains": ["emiratespost.ae"], "source": "TO VERIFY"},
+    {"id": "CBUAE", "names": ["المصرف المركزي", "central bank"], "domains": ["centralbank.ae"], "source": "TO VERIFY"},
+    {"id": "UAEGov", "names": ["البوابه الرسميه لحكومه الامارات", "u.ae"], "domains": ["u.ae"], "source": "TO VERIFY"}
+  ]
+}

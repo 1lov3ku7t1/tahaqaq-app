@@ -1,0 +1,28 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>e5 worker check</title>
+<pre id="out">running</pre>
+<script type="module">
+const w = new Worker("./worker.js", { type: "module" });
+let n = 0; const pending = new Map();
+w.onmessage = e => { pending.get(e.data.id)(e.data); pending.delete(e.data.id); };
+const call = (msg) => new Promise(r => { const id = ++n; pending.set(id, r); w.postMessage({ id, ...msg }); });
+const res = {};
+const timeout = setTimeout(() => { res.timeout = true; window.__done = res; }, 120000);
+const load = await call({ op: "load" });
+res.load = load;
+if (load.ok) {
+  const a = await call({ op: "embed", prefix: "query: ", texts: ["ماما هذا رقمي الجديد حولي لي 3000 درهم"] });
+  const b = await call({ op: "embed", prefix: "query: ", texts: ["Mum it's me, new number, send AED 2,500 today"] });
+  const c = await call({ op: "embed", prefix: "query: ", texts: ["Your appointment is confirmed for Sunday"] });
+  const dot = (x, y) => x.reduce((s, v, i) => s + v * y[i], 0);
+  res.warmMs = [a.ms, b.ms, c.ms];
+  res.dims = a.vectors?.[0]?.length;
+  res.sim_ar_en_scam = dot(a.vectors[0], b.vectors[0]);
+  res.sim_scam_vs_appt = dot(a.vectors[0], c.vectors[0]);
+  if (!a.ok) res.err = a.error;
+}
+clearTimeout(timeout);
+document.getElementById("out").textContent = JSON.stringify(res, null, 1);
+window.__done = res;
+</script>

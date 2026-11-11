@@ -1,0 +1,43 @@
+{
+ "_source": "Dubai Pulse dataset page https://www.dubaipulse.gov.ae/data/dof-pricing/dof_government_service_prices-open, read via WebFetch 2026-11-10",
+ "licence_field": "notspecified",
+ "rights": "N/A",
+ "created": "2018-02-16",
+ "last_updated": "2024-04-02",
+ "update_frequency_to_portal": "Quarterly",
+ "format": "CSV (no download link shown; API token flow described; access 'confirmation within 14 days')",
+ "row_count_stated": "7,997 current records (+~200 expected per quarter)",
+ "fields": [
+  "revenue_type_en",
+  "revenue_type_ar",
+  "service_name_en",
+  "service_name_ar",
+  "fee_name_en",
+  "fee_name_ar",
+  "pricing_type_en",
+  "pricing_type_ar",
+  "collection_cycle_en",
+  "collection_cycle_ar",
+  "fee_status_en",
+  "fee_status_ar",
+  "amount_en",
+  "amount_ar",
+  "legislation_en",
+  "legislation_ar",
+  "service_fees_code (PK)",
+  "entity_type_en",
+  "entity_type_ar",
+  "sector_en",
+  "sector_ar",
+  "government_entity_en",
+  "government_entity_ar"
+ ],
+ "notes": [
+  "pricing_type distinguishes Tax/Fee/Fine/Charge/Tariff",
+  "fee_status distinguishes Active/Amended/Inactive -> lets the app say 'this fee exists but is INACTIVE'",
+  "entity_type includes Federal -> some federal fees may be present (coverage UNVERIFIED)",
+  "amount is a character field -> expect ranges/percentages, needs parsing"
+ ],
+ "rows_retrieved": 0,
+ "why": "sandbox egress blocks dubaipulse.gov.ae for curl; WebFetch reads pages only; no keyless CSV link on this page"
+}

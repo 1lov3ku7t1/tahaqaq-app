@@ -1,0 +1,26 @@
+{
+  "name": "tahaqaq-app",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "private": true,
+  "scripts": {
+    "web": "expo start --web",
+    "export": "expo export -p web",
+    "serve": "node serve.mjs dist 8080",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "58.0.17",
+    "expo": "58.0.23",
+    "expo-status-bar": "58.0.4",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-web": "0.21.4",
+    "tldts": "7.4.19"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "6.0.3"
+  }
+}

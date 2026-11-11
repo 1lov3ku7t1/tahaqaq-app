@@ -1,0 +1,382 @@
+[
+ {
+  "id": "H01",
+  "label": "scam",
+  "group": "family",
+  "text": "خالتي انا ولد اختك، تلفوني خرب. ممكن تحولين لي 1200 درهم ضروري؟ برجعها لك بكرة",
+  "band": "stop_and_verify",
+  "ms": 1.8714779999999962,
+  "reasons": [
+   "family_unsaved_number"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H02",
+  "label": "scam",
+  "group": "family",
+  "text": "Dad, it's me. I'm in trouble with the police here, need AED 6,000 for bail right now. Please don't tell mum.",
+  "band": "stop_and_verify",
+  "ms": 0.40587200000000223,
+  "reasons": [
+   "hard_ask+pressure"
+  ],
+  "asks": [
+   "money",
+   "secrecy",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H03",
+  "label": "scam",
+  "group": "family",
+  "text": "امي حبيبتي هذا رقم صديقي، رقمي فاضي شحن، حولي 800 على هذا الرقم بسرعة",
+  "band": "stop_and_verify",
+  "ms": 0.7004729999999881,
+  "reasons": [
+   "hard_ask+pressure"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H04",
+  "label": "scam",
+  "group": "official",
+  "text": "إشعار من شرطة دبي: تم تسجيل مخالفة باسمك. ادخل بيانات بطاقتك عبر dubaipolice-fines.com لتجنب القبض",
+  "band": "stop_and_verify",
+  "ms": 2.5745720000000034,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "redline_details"
+  ],
+  "asks": [
+   "id_or_card",
+   "threat"
+  ],
+  "who": [
+   "DubaiPolice"
+  ],
+  "lines": [
+   "source:mismatch",
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H05",
+  "label": "scam",
+  "group": "official",
+  "text": "ICP: Your residency visa has expired. Pay the AED 1,100 overstay fine within 6 hours at icp-gov.org",
+  "band": "stop_and_verify",
+  "ms": 0.15528799999999876,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [
+   "ICP"
+  ],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H06",
+  "label": "scam",
+  "group": "official",
+  "text": "هيئة تنظيم الاتصالات: سيتم إيقاف رقمك اليوم بسبب عدم تحديث البيانات. أرسل صورة الهوية الإماراتية والكود",
+  "band": "stop_and_verify",
+  "ms": 0.1276020000000102,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card",
+   "threat"
+  ],
+  "who": [
+   "TDRA"
+  ],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H07",
+  "label": "scam",
+  "group": "official",
+  "text": "Ministry of Interior: you are entitled to a refund of AED 900. Enter your card details at moi-refund.ae",
+  "band": "stop_and_verify",
+  "ms": 0.36897899999999595,
+  "reasons": [
+   "claimed_entity_domain_mismatch",
+   "redline_details",
+   "official_payment_off_record"
+  ],
+  "asks": [
+   "money",
+   "id_or_card"
+  ],
+  "who": [
+   "MOI"
+  ],
+  "lines": [
+   "source:mismatch",
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H08",
+  "label": "scam",
+  "group": "bank",
+  "text": "Dear customer, a payment of AED 3,200 is pending. If this was not you, share the code we just sent to cancel it",
+  "band": "verify_first",
+  "ms": 0.061955999999995015,
+  "reasons": [],
+  "asks": [
+   "money",
+   "code"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "H09",
+  "label": "scam",
+  "group": "bank",
+  "text": "البنك: حسابك معلق مؤقتا. اتصل بنا وأعطنا رقم الحساب وكلمة المرور لإعادة التفعيل",
+  "band": "stop_and_verify",
+  "ms": 0.0873460000000108,
+  "reasons": [
+   "redline_details"
+  ],
+  "asks": [
+   "code",
+   "id_or_card"
+  ],
+  "who": [],
+  "lines": [
+   "redline:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H10",
+  "label": "scam",
+  "group": "other",
+  "text": "You have a parcel waiting. Delivery fee AED 7.50, pay here: tinyurl.com/uaeparcel5",
+  "band": "stop_and_verify",
+  "ms": 0.12910099999999147,
+  "reasons": [
+   "shortener"
+  ],
+  "asks": [
+   "money"
+  ],
+  "who": [],
+  "lines": [
+   "source:mismatch"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H11",
+  "label": "scam",
+  "group": "other",
+  "text": "مبروك ربحت سيارة في سحب المهرجان! ادفع رسوم التسجيل 450 درهم خلال ساعة لاستلام الجائزة",
+  "band": "stop_and_verify",
+  "ms": 0.047607999999996764,
+  "reasons": [
+   "hard_ask+pressure"
+  ],
+  "asks": [
+   "money",
+   "urgency"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "H12",
+  "label": "scam",
+  "group": "other",
+  "text": "Hello, I'm calling from Microsoft support, your computer is infected. Pay AED 299 now for the security licence",
+  "band": "verify_first",
+  "ms": 0.04012600000000077,
+  "reasons": [],
+  "asks": [
+   "money"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "H13",
+  "label": "legit",
+  "group": "family",
+  "text": "ماما انا طالع مع الشباب، برجع الساعة ١١",
+  "band": "no_signs_found",
+  "ms": 0.06749999999999545,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H14",
+  "label": "legit",
+  "group": "family",
+  "text": "Mum the plumber said it will cost 300 AED, I'll pay and you can give it to me later, no worries",
+  "band": "verify_first",
+  "ms": 0.04825099999999338,
+  "reasons": [],
+  "asks": [
+   "money"
+  ],
+  "who": [
+   "family"
+  ],
+  "lines": [
+   "family:unknown"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H15",
+  "label": "legit",
+  "group": "official",
+  "text": "شرطة دبي: نهنئكم بمناسبة اليوم الوطني. تابعونا عبر dubaipolice.gov.ae",
+  "band": "no_signs_found",
+  "ms": 0.08892099999999914,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "DubaiPolice"
+  ],
+  "lines": [
+   "source:match"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H16",
+  "label": "legit",
+  "group": "official",
+  "text": "MOHRE: your work permit renewal was approved. Details are available on mohre.gov.ae",
+  "band": "no_signs_found",
+  "ms": 0.054023999999998296,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "MOHRE"
+  ],
+  "lines": [
+   "source:match"
+  ],
+  "qg": 0
+ },
+ {
+  "id": "H17",
+  "label": "legit",
+  "group": "bank",
+  "text": "رمز التحقق الخاص بك هو 551203. لا تشارك هذا الرمز مع أي شخص",
+  "band": "verify_first",
+  "ms": 0.04036299999999926,
+  "reasons": [],
+  "asks": [
+   "code"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "H18",
+  "label": "legit",
+  "group": "bank",
+  "text": "Your card ending 7781 was used for AED 45.00 at a pharmacy. Not you? Call the number on the back of your card.",
+  "band": "verify_first",
+  "ms": 0.033403000000006955,
+  "reasons": [],
+  "asks": [
+   "money"
+  ],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "H19",
+  "label": "legit",
+  "group": "other",
+  "text": "Your appointment at the clinic is confirmed for Sunday 9:30am. Reply 1 to confirm",
+  "band": "no_signs_found",
+  "ms": 0.029522000000000048,
+  "reasons": [],
+  "asks": [],
+  "who": [],
+  "lines": [],
+  "qg": 0
+ },
+ {
+  "id": "H20",
+  "label": "legit",
+  "group": "official",
+  "text": "Salik: your account balance is low. Top up via salik.ae or the Salik app",
+  "band": "no_signs_found",
+  "ms": 0.044026999999999816,
+  "reasons": [],
+  "asks": [],
+  "who": [
+   "Salik"
+  ],
+  "lines": [
+   "source:match"
+  ],
+  "qg": 0
+ }
+]

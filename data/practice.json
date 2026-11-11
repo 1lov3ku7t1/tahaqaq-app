@@ -1,0 +1,186 @@
+{
+ "_note": "Sourced only (lead decision 2026-11-10). R = verbatim text quoted in a warning or press report of one. S = scenario from a warning that published no message text, input as taps. G = official feed item, nothing broken. No invented scam text.",
+ "rounds": [
+  {
+   "id": "R01",
+   "broken": "channel",
+   "source_url": "https://gulfnews.com/uae/new-dh500-dubai-scam-alert-for-unpaid-traffic-fines-rta-warns-1.500418185",
+   "source_title": "Gulf News: RTA warns of Dh500 unpaid-fine SMS scam",
+   "publisher": "Roads and Transport Authority (via Gulf News)",
+   "published": "2026-01-23",
+   "check": "Quoted text matched in the page HTML on 2026-11-10",
+   "note_en": "The RTA warned about this text. Pay fines only in the official app or website you already use, never from a link or number in a message.",
+   "note_ar": "حذّرت هيئة الطرق والمواصلات من هذه الرسالة. ادفع المخالفات فقط عبر التطبيق أو الموقع الرسمي الذي تستخدمه، لا من رابط أو رقم في رسالة.",
+   "text": "The traffic management department has notified you that your unpaid traffic fine (50 dirhams) is due soon. Please pay immediately to avoid an automatic addition of 500 dirhams today, which could result in more severe penalties."
+  },
+  {
+   "id": "R02",
+   "broken": "channel",
+   "source_url": "https://www.khaleejtimes.com/uae/rak-police-warn-motorists-fake-toll-payment-messages",
+   "source_title": "Khaleej Times: RAK Police warn motorists of toll payment messages",
+   "publisher": "Ras Al Khaimah Police (via Khaleej Times)",
+   "published": "2026-02-05",
+   "check": "Quoted text matched in the page HTML on 2026-11-10",
+   "note_en": "Ras Al Khaimah Police warned about this text. It uses a toll system's name and asks you to reply to open a payment page. Pay tolls only in the official app.",
+   "note_ar": "حذّرت شرطة رأس الخيمة من هذه الرسالة. تستخدم اسم نظام رسوم الطرق وتطلب الرد لفتح صفحة دفع. ادفع الرسوم فقط عبر التطبيق الرسمي.",
+   "text": "Pending Status: Please settle overdue toll fees (AED4.00) to avoid the issuance of a AED100.00 fine and traffic points today, Jan 20. Reply Y to open the secure payment portal."
+  },
+  {
+   "id": "R03",
+   "broken": "who",
+   "source_url": "https://www.khaleejtimes.com/uae/abu-dhabi-customs-warning-fraudulent-message-residents",
+   "source_title": "Khaleej Times: Abu Dhabi Customs warns of fraudulent message",
+   "publisher": "Abu Dhabi Customs (via Khaleej Times)",
+   "published": "2026-08-12",
+   "check": "Quoted text matched in the page HTML on 2026-11-10",
+   "note_en": "Abu Dhabi Customs warned about a message with this title and said not to respond. For questions it gives its own number, 800 555.",
+   "note_ar": "حذّرت جمارك أبوظبي من رسالة بهذا العنوان وطلبت عدم الرد عليها. للاستفسار، رقمها الخاص 800 555.",
+   "text": "Official Customs Hold Notice – Customs Tariff Classification Required (Harmonized System)"
+  },
+  {
+   "id": "R04",
+   "broken": "channel",
+   "source_url": "https://www.khaleejtimes.com/uae/local-plus/uae-new-scam-alert-have-you-received-this-fake-dubai-police-message-asking-you-to-pay-traffic-fines",
+   "source_title": "Khaleej Times: Dubai Police message asking to pay traffic fines",
+   "publisher": "Khaleej Times report of an email using the Dubai Police logo",
+   "published": "2023-06-07",
+   "check": "Quoted text matched in the page HTML on 2026-11-10",
+   "note_en": "This email copies the police logo and demands payment within 24 hours through a link. Check fines on the police website or app you already use.",
+   "note_ar": "تنسخ هذه الرسالة شعار الشرطة وتطلب الدفع خلال 24 ساعة عبر رابط. تحقّق من المخالفات عبر موقع الشرطة أو تطبيقها الذي تستخدمه.",
+   "text": "According to our records, you have recently been penalised for a road traffic offence. It is imperative that you settle this fine within 24 hours from the receipt of this email."
+  },
+  {
+   "id": "R05",
+   "broken": "who",
+   "source_url": "https://www.khaleejtimes.com/uae/uae-whatsapp-scam-fraudulent-notice-being-sent-to-residents-how-to-stay-safe",
+   "source_title": "Khaleej Times: fraudulent 'legal notice' sent on WhatsApp",
+   "publisher": "Khaleej Times report of a WhatsApp notice using the Central Bank's name",
+   "published": "2023-09-16",
+   "check": "Quoted text matched in the page HTML on 2026-11-10",
+   "note_en": "Sent on WhatsApp as a 'legal notice' in the Central Bank's name. Call your bank on the number printed on your card.",
+   "note_ar": "أُرسلت عبر واتساب كـ'إشعار قانوني' باسم المصرف المركزي. اتصل ببنكك على الرقم المطبوع على بطاقتك.",
+   "text": "Sorry, dear customer your bank account (ATM, debit, credit cards) will be freeze due to some security reasons, (and verify your all correct details) otherwise you account will be suspended permanent."
+  },
+  {
+   "id": "R06",
+   "broken": "ask",
+   "source_url": "https://gulfnews.com/uae/crime/caution-a-bank-scam-is-doing-the-rounds-in-uae-on-whatsapp-1.1556623772646",
+   "source_title": "Gulf News: bank scam doing the rounds on WhatsApp",
+   "publisher": "Dubai Police warning (via Gulf News)",
+   "published": "2019-04-30",
+   "check": "Quoted text as given by Gulf News (read 2026-11-10); page HTML not cross-checked",
+   "note_en": "It asks you to call a number given in the message. Call the number on the back of your card instead.",
+   "note_ar": "تطلب منك الاتصال برقم موجود في الرسالة. اتصل بدلًا من ذلك بالرقم الموجود خلف بطاقتك.",
+   "text": "Dear customers, your ATM has been blocked because you did not have an update yet. If you want your ATM card to work properly, then contact this number …"
+  },
+  {
+   "id": "S07",
+   "broken": "channel",
+   "source_url": "https://gulfnews.com/living-in-uae/telephone-internet/what-to-do-if-your-whatsapp-account-gets-hacked-uae-telecom-authority-shares-steps-to-follow-1.1696344392181",
+   "source_title": "Gulf News: TDRA steps if your WhatsApp account is hacked",
+   "publisher": "TDRA (via Gulf News)",
+   "published": "2023-10-03",
+   "check": "Scenario: the warning describes this scam but published no message text",
+   "note_en": "The number is the one you saved, but the account can be taken over. TDRA asks contacts of a hacked account not to respond to its messages. Call the person.",
+   "note_ar": "الرقم هو المحفوظ لديك، لكن الحساب قد يُخترق. تطلب هيئة تنظيم الاتصالات من جهات اتصال الحساب المخترق عدم الرد على رسائله. اتصل بالشخص.",
+   "taps": {
+    "who": "family",
+    "wants": [
+     "money"
+    ],
+    "pressure": [
+     "urgency"
+    ],
+    "via": "chat"
+   },
+   "scenario_en": "A chat from your son's saved number: he needs money urgently.",
+   "scenario_ar": "رسالة من رقم ابنك المحفوظ: يحتاج مالًا بشكل عاجل.",
+   "senderIs": "saved"
+  },
+  {
+   "id": "S08",
+   "broken": "who",
+   "source_url": "https://www.khaleejtimes.com/uae/mohre-warns-residents-deepfake-scams-impersonating-officials",
+   "source_title": "Khaleej Times: MoHRE warns of deepfake scams impersonating officials",
+   "publisher": "Ministry of Human Resources and Emiratisation (via Khaleej Times)",
+   "published": "2026-09-23",
+   "check": "Scenario: the warning describes this scam but published no message text",
+   "note_en": "MoHRE warned that scammers make videos and voice recordings imitating its officials, with urgent requests. A video cannot confirm who is speaking. Check the ministry's own channels, and do not forward it.",
+   "note_ar": "حذّرت وزارة الموارد البشرية والتوطين من فيديوهات وتسجيلات تنتحل صفة مسؤوليها بطلبات عاجلة. الفيديو لا يؤكد هوية المتحدث. تحقّق عبر قنوات الوزارة، ولا تُعِد إرساله.",
+   "taps": {
+    "who": "official",
+    "wants": [
+     "money",
+     "click",
+     "forward"
+    ],
+    "pressure": [
+     "urgency"
+    ],
+    "via": "video"
+   },
+   "scenario_en": "A video of a 'ministry official' announces a new fee payable through a link, and asks you to share it.",
+   "scenario_ar": "فيديو لـ'مسؤول في الوزارة' يعلن رسومًا جديدة تُدفع عبر رابط، ويطلب منك نشره."
+  },
+  {
+   "id": "S09",
+   "broken": "who",
+   "source_url": "https://www.khaleejtimes.com/uae/dubai-police-warn-scammers-impersonating-government-officials",
+   "source_title": "Khaleej Times: Dubai Police warn of scammers impersonating government officials",
+   "publisher": "Dubai Police and Ministry of Interior (via Khaleej Times)",
+   "published": "2026-03-02",
+   "check": "Scenario: the warning describes this scam but published no message text",
+   "note_en": "Dubai Police warned about callers posing as staff of a 'Dubai Crisis Management' entity. The Ministry of Interior said it has no link to calls from 70614213 or similar numbers. Hang up and call a published number yourself.",
+   "note_ar": "حذّرت شرطة دبي من متصلين ينتحلون صفة موظفين في جهة تُسمّى 'إدارة الأزمات في دبي'. وأكدت وزارة الداخلية أنها لا صلة لها بالاتصالات من الرقم 70614213 أو أرقام مشابهة. أغلق الخط واتصل برقم منشور بنفسك.",
+   "taps": {
+    "who": "official",
+    "wants": [
+     "code",
+     "id_or_card"
+    ],
+    "pressure": [
+     "urgency"
+    ],
+    "via": "call"
+   },
+   "scenario_en": "A caller says he is from 'Dubai Crisis Management' and asks for your UAE Pass code and Emirates ID.",
+   "scenario_ar": "متصل يقول إنه من 'إدارة الأزمات في دبي' ويطلب رمز الهوية الرقمية ورقم الهوية الإماراتية."
+  },
+  {
+   "id": "G10",
+   "broken": "nothing",
+   "source_url": "https://www.mediaoffice.abudhabi/en/government-affairs/abu-dhabi-customs-wins-gcc-digital-government-award-for-invisible-customs-initiative/",
+   "source_title": "Abu Dhabi Media Office: Abu Dhabi Customs wins GCC Digital Government Award for Invisible Customs initiative",
+   "publisher": "Abu Dhabi Media Office (official RSS feed)",
+   "published": "2026-10-30",
+   "check": "Official feed item, snapshot 2026-11-10",
+   "note_en": "This is an item from the official Abu Dhabi Media Office feed. It asks you for nothing. Open news from the official site, not from a forwarded link.",
+   "note_ar": "هذا خبر من المصدر الرسمي للمكتب الإعلامي لحكومة أبوظبي. لا يطلب منك شيئًا. افتح الأخبار من الموقع الرسمي، لا من رابط مُعاد إرساله.",
+   "text": "Abu Dhabi Customs wins GCC Digital Government Award for Invisible Customs initiative https://www.mediaoffice.abudhabi/en/government-affairs/abu-dhabi-customs-wins-gcc-digital-government-award-for-invisible-customs-initiative/"
+  },
+  {
+   "id": "G11",
+   "broken": "nothing",
+   "source_url": "https://www.mediaoffice.abudhabi/ar/technology/hazza-bin-zayed-visits-tamm-factory-and-reviews-abu-dhabis-journey-towards-ai-native-government/",
+   "source_title": "Abu Dhabi Media Office: هزاع بن زايد يزور مصنع \"تم\" ويطّلع على مسيرة أبوظبي نحو حكومة قائمة على الذكاء الاصطناعي",
+   "publisher": "Abu Dhabi Media Office (official RSS feed)",
+   "published": "2026-11-06",
+   "check": "Official feed item, snapshot 2026-11-10",
+   "note_en": "This is an item from the official Abu Dhabi Media Office feed. It asks you for nothing. Open news from the official site, not from a forwarded link.",
+   "note_ar": "هذا خبر من المصدر الرسمي للمكتب الإعلامي لحكومة أبوظبي. لا يطلب منك شيئًا. افتح الأخبار من الموقع الرسمي، لا من رابط مُعاد إرساله.",
+   "text": "هزاع بن زايد يزور مصنع \"تم\" ويطّلع على مسيرة أبوظبي نحو حكومة قائمة على الذكاء الاصطناعي https://www.mediaoffice.abudhabi/ar/technology/hazza-bin-zayed-visits-tamm-factory-and-reviews-abu-dhabis-journey-towards-ai-native-government/"
+  },
+  {
+   "id": "G12",
+   "broken": "nothing",
+   "source_url": "https://www.mediaoffice.abudhabi/en/security/abu-dhabi-police-enhances-captain-sanads-capabilities-with-ai-to-strengthen-communication-and-public-awareness/",
+   "source_title": "Abu Dhabi Media Office: Abu Dhabi Police enhances Captain Sanad’s capabilities with AI to strengthen communication and public awareness",
+   "publisher": "Abu Dhabi Media Office (official RSS feed)",
+   "published": "2026-10-17",
+   "check": "Official feed item, snapshot 2026-11-10",
+   "note_en": "This is an item from the official Abu Dhabi Media Office feed. It asks you for nothing. Open news from the official site, not from a forwarded link.",
+   "note_ar": "هذا خبر من المصدر الرسمي للمكتب الإعلامي لحكومة أبوظبي. لا يطلب منك شيئًا. افتح الأخبار من الموقع الرسمي، لا من رابط مُعاد إرساله.",
+   "text": "Abu Dhabi Police enhances Captain Sanad’s capabilities with AI to strengthen communication and public awareness https://www.mediaoffice.abudhabi/en/security/abu-dhabi-police-enhances-captain-sanads-capabilities-with-ai-to-strengthen-communication-and-public-awareness/"
+  }
+ ]
+}

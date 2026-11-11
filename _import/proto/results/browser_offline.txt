@@ -1,0 +1,7 @@
+Headless Chrome for Testing 153.0.8010.12, sandbox (2 vCPU, 8 GB), 10 Nov 2026. All external hosts blocked.
+transformers.js 4.3.2 (dist/transformers.min.js) + onnxruntime-web 1.31.0-dev.20260914 asyncify wasm + multilingual-e5-small int8 ONNX (118,308,185 B; sha256 f80102d3...c193), served from localhost.
+load: ok, 3470 ms (local disk, no network transfer)   warm queries: 360 / 118 / 39 ms   dims 384
+cos(AR family-scam, EN family-scam) = 0.869 ; cos(AR family-scam, EN appointment) = 0.803  -> margin only 0.066
+external requests attempted: 0
+files fetched: config.json, tokenizer_config.json, tokenizer.json (17,082,730 B), onnx/model_quantized.onnx, ort/ort-wasm-simd-threaded.asyncify.{mjs,wasm} (26,861,777 B)
+gotcha found: env.allowLocalModels must be set true in browsers, otherwise "both local and remote models are disabled".

@@ -1,0 +1,262 @@
+[
+ {
+  "id": "H01",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "F08",
+   "F01",
+   "F05"
+  ],
+  "sim1": 0.886
+ },
+ {
+  "id": "H02",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "F03",
+   "LF04",
+   "F04"
+  ],
+  "sim1": 0.881
+ },
+ {
+  "id": "H03",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "F08",
+   "B01",
+   "F02"
+  ],
+  "sim1": 0.9
+ },
+ {
+  "id": "H04",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "O03",
+   "O08",
+   "B01"
+  ],
+  "sim1": 0.917
+ },
+ {
+  "id": "H05",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "A03",
+   "O04",
+   "A01"
+  ],
+  "sim1": 0.874
+ },
+ {
+  "id": "H06",
+  "label": "scam",
+  "emb": "legit",
+  "rule": "scam",
+  "combined": "abstain",
+  "nearest": [
+   "B03",
+   "LO06",
+   "LO01"
+  ],
+  "sim1": 0.887
+ },
+ {
+  "id": "H07",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "A03",
+   "O02",
+   "LB03"
+  ],
+  "sim1": 0.85
+ },
+ {
+  "id": "H08",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "soft",
+  "combined": "scam",
+  "nearest": [
+   "B01",
+   "F03",
+   "O10"
+  ],
+  "sim1": 0.873
+ },
+ {
+  "id": "H09",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "B01",
+   "B03",
+   "LO01"
+  ],
+  "sim1": 0.887
+ },
+ {
+  "id": "H10",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "O07",
+   "A03",
+   "A01"
+  ],
+  "sim1": 0.871
+ },
+ {
+  "id": "H11",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "scam",
+  "combined": "scam",
+  "nearest": [
+   "O01",
+   "O06",
+   "O03"
+  ],
+  "sim1": 0.847
+ },
+ {
+  "id": "H12",
+  "label": "scam",
+  "emb": "scam",
+  "rule": "soft",
+  "combined": "scam",
+  "nearest": [
+   "LB03",
+   "B01",
+   "F04"
+  ],
+  "sim1": 0.848
+ },
+ {
+  "id": "H13",
+  "label": "legit",
+  "emb": "scam",
+  "rule": "legit",
+  "combined": "abstain",
+  "nearest": [
+   "LF03",
+   "A05",
+   "F08"
+  ],
+  "sim1": 0.899
+ },
+ {
+  "id": "H14",
+  "label": "legit",
+  "emb": "scam",
+  "rule": "soft",
+  "combined": "scam",
+  "nearest": [
+   "B01",
+   "F03",
+   "A02"
+  ],
+  "sim1": 0.843
+ },
+ {
+  "id": "H15",
+  "label": "legit",
+  "emb": "legit",
+  "rule": "legit",
+  "combined": "legit",
+  "nearest": [
+   "O03",
+   "LF05",
+   "LO04"
+  ],
+  "sim1": 0.874
+ },
+ {
+  "id": "H16",
+  "label": "legit",
+  "emb": "scam",
+  "rule": "legit",
+  "combined": "abstain",
+  "nearest": [
+   "O02",
+   "LO01",
+   "A03"
+  ],
+  "sim1": 0.9
+ },
+ {
+  "id": "H17",
+  "label": "legit",
+  "emb": "legit",
+  "rule": "soft",
+  "combined": "abstain",
+  "nearest": [
+   "LO06",
+   "O03",
+   "LO01"
+  ],
+  "sim1": 0.868
+ },
+ {
+  "id": "H18",
+  "label": "legit",
+  "emb": "scam",
+  "rule": "soft",
+  "combined": "scam",
+  "nearest": [
+   "LB03",
+   "F03",
+   "B01"
+  ],
+  "sim1": 0.848
+ },
+ {
+  "id": "H19",
+  "label": "legit",
+  "emb": "legit",
+  "rule": "legit",
+  "combined": "legit",
+  "nearest": [
+   "B02",
+   "LO01",
+   "LF03"
+  ],
+  "sim1": 0.836
+ },
+ {
+  "id": "H20",
+  "label": "legit",
+  "emb": "scam",
+  "rule": "legit",
+  "combined": "abstain",
+  "nearest": [
+   "O05",
+   "B02",
+   "B03"
+  ],
+  "sim1": 0.859
+ }
+]

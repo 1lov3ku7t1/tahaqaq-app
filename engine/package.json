@@ -1,0 +1,3 @@
+{ "name": "tahaqaq-engine", "private": true, "type": "module",
+  "scripts": { "test": "node --no-warnings test.ts" },
+  "dependencies": { "tldts": "7.4.19" } }

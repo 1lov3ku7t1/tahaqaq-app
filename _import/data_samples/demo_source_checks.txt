@@ -1,0 +1,14 @@
+[link] claims Awqaf: https://www.awqaf.gov.ae/zakat
+   -> MATCHES official record: www.awqaf.gov.ae is Awqaf's listed site (u.ae directory). The request can still be a scam.
+[link] claims Emirates Post: https://emiratespost-fees.ae/pay
+   -> DOES NOT MATCH: emiratespost-fees.ae ends in .ae; .ae is unrestricted (AEDA-POL-007 s.10), anyone can register it. Emirates Post's listed site: not in registry
+[link] claims Ministry of Higher Education and Scientific Research: https://mohesr-gov.com/fee
+   -> DOES NOT MATCH: mohesr-gov.com is outside UAE government namespaces. Ministry of Higher Education and Scientific Research's listed site: ['mohesr.gov.ae']
+[phone] claims Emirates Post: +971 600 599999
+   -> MATCHES published number of Emirates Post. Caller ID can be spoofed: hang up and call this number yourself.
+[phone] claims Emirates Post: +971 55 123 4567
+   -> DOES NOT MATCH Emirates Post's published number ['600599999']; number type per UAE numbering ranges: MOBILE/STANDARD_RATE (du)
+[phone] claims Ministry of Higher Education and Scientific Research: 800 511
+   -> MATCHES published number of Ministry of Higher Education and Scientific Research. Caller ID can be spoofed: hang up and call this number yourself.
+[phone] claims Awqaf: +971 900 21234
+   -> DOES NOT MATCH Awqaf's published number ['8008222']; number type per UAE numbering ranges: FIXED_LINE/PREMIUM_RATE

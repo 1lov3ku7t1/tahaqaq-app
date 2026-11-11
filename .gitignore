@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.expo/
+.claude/
+.DS_Store
+# rebuilt by `node worker/build.mjs` (needs the npm tarballs in worker/vendor and the model files from _inbox)
+app/public/
+worker/vendor/
+_inbox/
+qa/shots/

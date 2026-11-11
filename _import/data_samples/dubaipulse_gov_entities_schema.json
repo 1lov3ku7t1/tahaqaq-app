@@ -1,0 +1,28 @@
+{
+ "_source": "Dubai Pulse https://www.dubaipulse.gov.ae/data/tec-registers/tec_government_entities_open-open-api read 2026-11-10",
+ "licence_field": "notspecified",
+ "created": "2024-01-15",
+ "last_updated": "2024-01-15",
+ "format": "API only (key + secret by email, bearer token)",
+ "row_count": "not shown",
+ "fields": [
+  "entity_id",
+  "website",
+  "phone_numbers",
+  "establishment_date",
+  "end_date",
+  "establishment_law",
+  "gov_sector_name_english",
+  "gov_sector_name_arabic",
+  "parent_organization_name_english",
+  "parent_organization_name_arabic",
+  "board_members_name_english (EXCLUDE)",
+  "board_members_name_arabic (EXCLUDE)",
+  "ceo_name_english (EXCLUDE)",
+  "ceo_name_arabic (EXCLUDE)",
+  "name_english",
+  "name_arabic"
+ ],
+ "use": "API supports &column= projection (per page example) -> request only entity_id,name_*,website,phone_numbers,end_date,parent_*",
+ "rows_retrieved": 0
+}

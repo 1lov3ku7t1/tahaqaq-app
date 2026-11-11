@@ -1,0 +1,17 @@
+cases: 20 | scam: 12 | legit: 8
+scam  -> stop_and_verify : 10/12 (83.3%)
+scam  -> any flag        : 12/12 (100.0%)
+legit -> stop_and_verify : 0/8 (0.0%)  <- false alarm
+legit -> verify_first    : 3/8 (37.5%)
+quote-guard removals     : 0
+latency ms p50/max       : 0.13 1.89
+
+by group:
+  family       {"scam->stop_and_verify":3,"legit->no_signs_found":1,"legit->verify_first":1}
+  official     {"scam->stop_and_verify":4,"legit->no_signs_found":3}
+  bank         {"scam->verify_first":1,"scam->stop_and_verify":1,"legit->verify_first":2}
+  other        {"scam->stop_and_verify":2,"scam->verify_first":1,"legit->no_signs_found":1}
+
+failures (scam not stopped / legit stopped):
+ H08 [scam->verify_first] asks=money,code who= lines= :: Dear customer, a payment of AED 3,200 is pending. If this was not you, share the
+ H12 [scam->verify_first] asks=money who= lines= :: Hello, I'm calling from Microsoft support, your computer is infected. Pay AED 29

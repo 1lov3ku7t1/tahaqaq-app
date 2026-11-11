@@ -1,0 +1,22 @@
+{
+ "_source": "Dubai Pulse https://www.dubaipulse.gov.ae/data/courts-records/courts_notary_fees_items-open read 2026-11-10",
+ "licence_field": "notspecified",
+ "created": "2020-03-01",
+ "last_updated": "2025-12-09",
+ "format": "CSV",
+ "download_url_shown_on_page": "https://www.dubaipulse.gov.ae/dataset/5797a9b6-7aa4-41d1-95bd-dcc8427f1ea8/resource/d99ac703-53e3-4a0a-8b45-23406fa62a3d/download/notary_fees_items.csv",
+ "keyless_download_works": "UNVERIFIED (blocked from sandbox; test in a normal browser)",
+ "fields": [
+  "fees_item_code",
+  "fees_item_description",
+  "fees_item_desc_eng",
+  "fees_item_value",
+  "fees_item_percentage",
+  "maximum_value",
+  "minimum_value",
+  "compute_flag",
+  "use_flag"
+ ],
+ "expected_rows": 25,
+ "why_it_matters": "Proves Dubai Pulse pages DO expose direct CSV resource links for some datasets; the same pattern may exist for other fee datasets."
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "HELD-OUT, constructed by agent I5 on 10 Nov 2026 AFTER seeing v0 failures but BEFORE tuning; frozen, never used to tune. Still written by the same author as the engine, so it is biased in our favour. Test pass rate only.",
+  "cases": [
+    {"id":"H01","label":"scam","group":"family","text":"خالتي انا ولد اختك، تلفوني خرب. ممكن تحولين لي 1200 درهم ضروري؟ برجعها لك بكرة"},
+    {"id":"H02","label":"scam","group":"family","text":"Dad, it's me. I'm in trouble with the police here, need AED 6,000 for bail right now. Please don't tell mum."},
+    {"id":"H03","label":"scam","group":"family","text":"امي حبيبتي هذا رقم صديقي، رقمي فاضي شحن، حولي 800 على هذا الرقم بسرعة"},
+    {"id":"H04","label":"scam","group":"official","text":"إشعار من شرطة دبي: تم تسجيل مخالفة باسمك. ادخل بيانات بطاقتك عبر dubaipolice-fines.com لتجنب القبض"},
+    {"id":"H05","label":"scam","group":"official","text":"ICP: Your residency visa has expired. Pay the AED 1,100 overstay fine within 6 hours at icp-gov.org"},
+    {"id":"H06","label":"scam","group":"official","text":"هيئة تنظيم الاتصالات: سيتم إيقاف رقمك اليوم بسبب عدم تحديث البيانات. أرسل صورة الهوية الإماراتية والكود"},
+    {"id":"H07","label":"scam","group":"official","text":"Ministry of Interior: you are entitled to a refund of AED 900. Enter your card details at moi-refund.ae"},
+    {"id":"H08","label":"scam","group":"bank","text":"Dear customer, a payment of AED 3,200 is pending. If this was not you, share the code we just sent to cancel it"},
+    {"id":"H09","label":"scam","group":"bank","text":"البنك: حسابك معلق مؤقتا. اتصل بنا وأعطنا رقم الحساب وكلمة المرور لإعادة التفعيل"},
+    {"id":"H10","label":"scam","group":"other","text":"You have a parcel waiting. Delivery fee AED 7.50, pay here: tinyurl.com/uaeparcel5"},
+    {"id":"H11","label":"scam","group":"other","text":"مبروك ربحت سيارة في سحب المهرجان! ادفع رسوم التسجيل 450 درهم خلال ساعة لاستلام الجائزة"},
+    {"id":"H12","label":"scam","group":"other","text":"Hello, I'm calling from Microsoft support, your computer is infected. Pay AED 299 now for the security licence"},
+    {"id":"H13","label":"legit","group":"family","text":"ماما انا طالع مع الشباب، برجع الساعة ١١"},
+    {"id":"H14","label":"legit","group":"family","text":"Mum the plumber said it will cost 300 AED, I'll pay and you can give it to me later, no worries"},
+    {"id":"H15","label":"legit","group":"official","text":"شرطة دبي: نهنئكم بمناسبة اليوم الوطني. تابعونا عبر dubaipolice.gov.ae"},
+    {"id":"H16","label":"legit","group":"official","text":"MOHRE: your work permit renewal was approved. Details are available on mohre.gov.ae"},
+    {"id":"H17","label":"legit","group":"bank","text":"رمز التحقق الخاص بك هو 551203. لا تشارك هذا الرمز مع أي شخص"},
+    {"id":"H18","label":"legit","group":"bank","text":"Your card ending 7781 was used for AED 45.00 at a pharmacy. Not you? Call the number on the back of your card."},
+    {"id":"H19","label":"legit","group":"other","text":"Your appointment at the clinic is confirmed for Sunday 9:30am. Reply 1 to confirm"},
+    {"id":"H20","label":"legit","group":"official","text":"Salik: your account balance is low. Top up via salik.ae or the Salik app"}
+  ]
+}

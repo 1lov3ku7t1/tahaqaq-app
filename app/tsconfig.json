@@ -1,0 +1,5 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": { "strict": true, "noEmit": true, "allowImportingTsExtensions": true, "resolveJsonModule": true, "skipLibCheck": true },
+  "include": ["**/*.ts", "**/*.tsx", "../engine/engine.ts", "../engine/types.ts"]
+}

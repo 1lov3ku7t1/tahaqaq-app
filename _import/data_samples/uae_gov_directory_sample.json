@@ -1,0 +1,35 @@
+{
+ "_source": "u.ae 'The Government' directory https://u.ae/en/Help/The-Government read via WebFetch 2026-11-10 (first page only; 6 entities shown; total size and pagination UNVERIFIED; no export)",
+ "rows": [
+  {
+   "entity": "National Media Authority",
+   "website": "https://www.nma.gov.ae/en",
+   "phone": "+971 800 971"
+  },
+  {
+   "entity": "Etihad Water and Electricity",
+   "website": null,
+   "phone": "+971 800 3392"
+  },
+  {
+   "entity": "Ministry of Higher Education and Scientific Research",
+   "website": "https://www.mohesr.gov.ae/En/pages/home.aspx",
+   "phone": "+971 800 511"
+  },
+  {
+   "entity": "General Authority Of Islamic Affairs, Endowments & Zakat",
+   "website": "https://www.awqaf.gov.ae/",
+   "phone": "+971 800 8222"
+  },
+  {
+   "entity": "Emirates Post",
+   "website": null,
+   "phone": "+971 600 599999"
+  },
+  {
+   "entity": "DUBAI CSD",
+   "website": null,
+   "phone": "+971 4 305 5555"
+  }
+ ]
+}

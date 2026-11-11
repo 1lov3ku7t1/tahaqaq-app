@@ -1,0 +1,82 @@
+{
+ "_note": "Names as listed on the u.ae reporting page. Links to each platform are not filled from memory; the button opens the u.ae page.",
+ "routes": [
+  {
+   "id": "MOI_ECRIME",
+   "name_en": "Ministry of Interior eCrimes platform",
+   "name_ar": "",
+   "tel": null,
+   "only_for": null,
+   "source_url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/cyber-safety-and-digital-security/report-cybercrimes-online",
+   "page_updated": "2024-03-04",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "DP_ECRIME",
+   "name_en": "Dubai Police eCrime website",
+   "name_ar": "",
+   "tel": null,
+   "only_for": null,
+   "source_url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/cyber-safety-and-digital-security/report-cybercrimes-online",
+   "page_updated": "2024-03-04",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "AMAN",
+   "name_en": "Aman (Abu Dhabi Police)",
+   "name_ar": "",
+   "tel": null,
+   "only_for": null,
+   "source_url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/cyber-safety-and-digital-security/report-cybercrimes-online",
+   "page_updated": "2024-03-04",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "MSS",
+   "name_en": "My Safe Society (Federal Public Prosecution)",
+   "name_ar": "",
+   "tel": null,
+   "only_for": null,
+   "source_url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/cyber-safety-and-digital-security/report-cybercrimes-online",
+   "page_updated": "2024-03-04",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "POLICE",
+   "name_en": "Local police station",
+   "name_ar": "",
+   "tel": null,
+   "only_for": null,
+   "source_url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/cyber-safety-and-digital-security/report-cybercrimes-online",
+   "page_updated": "2024-03-04",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "999",
+   "name_en": "Police emergency 999",
+   "name_ar": "",
+   "tel": "999",
+   "only_for": null,
+   "source_url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/cyber-safety-and-digital-security/report-cybercrimes-online",
+   "page_updated": "2024-03-04",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  },
+  {
+   "id": "GDRFA_AMER",
+   "name_en": "GDRFA Amer line (sites impersonating GDRFA)",
+   "name_ar": "",
+   "tel": "8005111",
+   "only_for": "GDRFA",
+   "source_url": "https://gulfnews.com/amp/story/technology%2Fdubai-launches-amer-cybersecurity-reporting-service-to-combat-online-fraud-1.500493908",
+   "page_updated": "2026-04-02",
+   "retrieved": "2026-11-10",
+   "approved_by_lead": false
+  }
+ ]
+}

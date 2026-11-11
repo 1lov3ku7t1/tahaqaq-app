@@ -1,0 +1,132 @@
+{
+ "_source": "Google libphonenumber metadata resources/metadata/971/ranges.csv (Apache-2.0), https://raw.githubusercontent.com/google/libphonenumber/master/resources/metadata/971/ranges.csv. Not published by TDRA directly.",
+ "retrieved": "2026-11-10",
+ "ranges": [
+  {
+   "prefix": "2[2-8]",
+   "length": "8",
+   "type": "FIXED_LINE",
+   "tariff": "STANDARD_RATE",
+   "operator": null,
+   "region": "Abu dhabi",
+   "provenance": "ITU"
+  },
+  {
+   "prefix": "3[2-8]",
+   "length": "8",
+   "type": "FIXED_LINE",
+   "tariff": "STANDARD_RATE",
+   "operator": null,
+   "region": "Al Ain",
+   "provenance": "ITU"
+  },
+  {
+   "prefix": "400",
+   "length": "9",
+   "type": "FIXED_LINE",
+   "tariff": "TOLL_FREE",
+   "operator": null,
+   "region": null,
+   "provenance": null
+  },
+  {
+   "prefix": "4[2-8]",
+   "length": "8",
+   "type": "FIXED_LINE",
+   "tariff": "STANDARD_RATE",
+   "operator": null,
+   "region": "Dubai",
+   "provenance": "ITU"
+  },
+  {
+   "prefix": "5[046]",
+   "length": "9",
+   "type": "MOBILE",
+   "tariff": "STANDARD_RATE",
+   "operator": "etisalat",
+   "region": null,
+   "provenance": "IR21"
+  },
+  {
+   "prefix": "5[258]",
+   "length": "9",
+   "type": "MOBILE",
+   "tariff": "STANDARD_RATE",
+   "operator": "du",
+   "region": null,
+   "provenance": "IR21"
+  },
+  {
+   "prefix": "53",
+   "length": "9",
+   "type": "MOBILE",
+   "tariff": "STANDARD_RATE",
+   "operator": "virgin_mobile",
+   "region": null,
+   "provenance": "WEB"
+  },
+  {
+   "prefix": "600[25]",
+   "length": "9",
+   "type": "UAN",
+   "tariff": "STANDARD_RATE",
+   "operator": null,
+   "region": null,
+   "provenance": null
+  },
+  {
+   "prefix": "6[2-8]",
+   "length": "8",
+   "type": "FIXED_LINE",
+   "tariff": "STANDARD_RATE",
+   "operator": null,
+   "region": "Sharjah, Ajman, Umm Al-Qaiwain",
+   "provenance": "ITU"
+  },
+  {
+   "prefix": "700[05]",
+   "length": "9",
+   "type": "FIXED_LINE",
+   "tariff": "SHARED_COST",
+   "operator": null,
+   "region": null,
+   "provenance": null
+  },
+  {
+   "prefix": "7[2-8]",
+   "length": "8",
+   "type": "FIXED_LINE",
+   "tariff": "STANDARD_RATE",
+   "operator": null,
+   "region": "Ras Alkhaimah",
+   "provenance": "ITU"
+  },
+  {
+   "prefix": "800",
+   "length": "5-12",
+   "type": "FIXED_LINE",
+   "tariff": "TOLL_FREE",
+   "operator": null,
+   "region": null,
+   "provenance": null
+  },
+  {
+   "prefix": "900[02]",
+   "length": "9",
+   "type": "FIXED_LINE",
+   "tariff": "PREMIUM_RATE",
+   "operator": null,
+   "region": null,
+   "provenance": null
+  },
+  {
+   "prefix": "9[2-8]",
+   "length": "8",
+   "type": "FIXED_LINE",
+   "tariff": "STANDARD_RATE",
+   "operator": null,
+   "region": "Fujairah",
+   "provenance": "ITU"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Tahaqaq",
+    "slug": "tahaqaq",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "web": { "favicon": "./assets/favicon.png", "output": "single", "name": "Tahaqaq تحقّق", "themeColor": "#000000", "backgroundColor": "#000000" }
+  }
+}
