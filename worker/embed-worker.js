@@ -4,8 +4,8 @@ import { pipeline, env } from "./transformers.min.js";   // @huggingface/transfo
 
 env.allowRemoteModels = false;              // never fall back to huggingface.co
 env.allowLocalModels = true;                // false by default in browsers
-env.localModelPath = "/models/";            // /models/e5/{config,tokenizer*.json}, /models/e5/onnx/model_quantized.onnx
-env.backends.onnx.wasm.wasmPaths = "/ort/"; // otherwise ORT fetches its .wasm from a CDN
+env.localModelPath = new URL("./models/", self.location.href).href;   // next to this file, whatever sub-path the app is hosted under            // /models/e5/{config,tokenizer*.json}, /models/e5/onnx/model_quantized.onnx
+env.backends.onnx.wasm.wasmPaths = new URL("./ort/", self.location.href).href; // otherwise ORT fetches its .wasm from a CDN
 env.backends.onnx.wasm.numThreads = 1;      // no COOP/COEP on static hosting
 
 let extractor = null;

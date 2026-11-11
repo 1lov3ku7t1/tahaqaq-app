@@ -53,6 +53,17 @@ export default function App() {
     document.body.style.backgroundColor = '#000';
   }, [lang]);
 
+  useEffect(() => {   // installable + offline: manifest, iPhone home-screen icon, service worker (all relative, so it works under a sub-path)
+    if (Platform.OS !== 'web') return;
+    const add = (tag: string, attrs: Record<string, string>) => { const e = document.createElement(tag); Object.entries(attrs).forEach(([k, v]) => e.setAttribute(k, v)); document.head.appendChild(e); };
+    add('link', { rel: 'manifest', href: 'manifest.webmanifest' });
+    add('link', { rel: 'apple-touch-icon', href: 'apple-touch-icon.png' });
+    add('meta', { name: 'apple-mobile-web-app-capable', content: 'yes' });
+    add('meta', { name: 'mobile-web-app-capable', content: 'yes' });
+    add('meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' });
+    add('meta', { name: 'theme-color', content: '#000000' });
+    navigator.serviceWorker?.register('sw.js').catch(() => {});
+  }, []);
   const go = (s: Screen) => { setScreen(s); if (Platform.OS === 'web') window.scrollTo(0, 0); };
   const l = lang;
   return (

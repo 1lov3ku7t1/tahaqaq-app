@@ -3,7 +3,7 @@ import { createServer } from "node:http";
 import { readFile } from "node:fs/promises";
 import { extname, join, normalize, resolve } from "node:path";
 const root = resolve(process.argv[2] || "dist"), port = Number(process.argv[3] || 8080);
-const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".mjs": "text/javascript", ".json": "application/json", ".png": "image/png", ".jpg": "image/jpeg", ".ico": "image/x-icon", ".css": "text/css", ".wasm": "application/wasm", ".onnx": "application/octet-stream", ".svg": "image/svg+xml" };
+const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".mjs": "text/javascript", ".json": "application/json", ".png": "image/png", ".jpg": "image/jpeg", ".ico": "image/x-icon", ".css": "text/css", ".wasm": "application/wasm", ".onnx": "application/octet-stream", ".svg": "image/svg+xml", ".webmanifest": "application/manifest+json" };
 createServer(async (req, res) => {
   const p = normalize(decodeURIComponent(new URL(req.url, "http://x").pathname)).replace(/^(\.\.[/\\])+/, "");
   let f = join(root, p);

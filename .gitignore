@@ -4,7 +4,11 @@ dist/
 .claude/
 .DS_Store
 # rebuilt by `node worker/build.mjs` (needs the npm tarballs in worker/vendor and the model files from _inbox)
-app/public/
+app/public/ort/
+app/public/transformers.min.js
+app/public/embed-worker.js
+app/public/models/
+app/dist-pages/
 worker/vendor/
 _inbox/
 qa/shots/

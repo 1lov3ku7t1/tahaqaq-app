@@ -28,9 +28,9 @@ export async function startAi(data: Data, set: (s: AiState) => void) {
   if (Platform.OS !== 'web' || typeof Worker === 'undefined') return set({ status: 'unavailable', reason: 'no web worker' });
   set({ status: 'loading' });
   try {
-    const head = await fetch('/models/e5/onnx/model_quantized.onnx', { method: 'HEAD' });
+    const head = await fetch(new URL('models/e5/onnx/model_quantized.onnx', document.baseURI).href, { method: 'HEAD' });
     if (!head.ok || (head.headers.get('content-type') ?? '').includes('text/html')) throw new Error('AI pack files not installed');
-    worker = new Worker('/embed-worker.js', { type: 'module' });
+    worker = new Worker(new URL('embed-worker.js', document.baseURI).href, { type: 'module' });
     worker.onmessage = e => pending.get(e.data.id)?.(e.data);
     worker.onerror = e => { for (const f of pending.values()) f({ ok: false, error: String(e.message) }); };
     const { loadMs } = await call({ op: 'load' });

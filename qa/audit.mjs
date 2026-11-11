@@ -5,7 +5,7 @@
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 const root = decodeURIComponent(new URL("../", import.meta.url).pathname);
-const SKIP = /node_modules|\/_import\/|\/vendor\/|\/dist\/|\/public\/|\/shots\/|\/feeds\/|\.git\//;
+const SKIP = /node_modules|\/_import\/|\/vendor\/|\/dist(-pages)?\/|\/public\/|\/shots\/|\/feeds\/|\.git\//;
 const walk = d => readdirSync(d).flatMap(f => { const p = join(d, f); return SKIP.test(p + "/") ? [] : statSync(p).isDirectory() ? walk(p) : [p]; });
 const files = walk(root).filter(f => /\.(tsx?|mjs|js|json|md|py)$/.test(f));
 const hits = [];
