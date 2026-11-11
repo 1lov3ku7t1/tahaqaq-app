@@ -4,12 +4,16 @@ Arabic and English web app for checking a message that asks you for something. I
 
 Not affiliated with or endorsed by any government body. Student prototype.
 
+## Open it on a phone
+https://1lov3ku7t1.github.io/tahaqaq-app/ (QR code: `qr-tahaqaq.png`). After the first visit it works with no internet. iPhone: Safari, Share, Add to Home Screen. Android: Chrome menu, Install app.
+
 ## How it decides
 Rules and dated official records decide every result line. The optional on-device AI pack only suggests which entity or announcement a message is about. It never sets a result.
 
 ## Run it
 ```bash
 cd app && npm install && npx expo export -p web && node serve.mjs dist 8080
+# hosted build under a sub-path: BASE_URL=/tahaqaq-app npx expo export -p web --output-dir dist-pages
 ```
 Open http://127.0.0.1:8080 (phone-width window looks best). Works offline.
 
